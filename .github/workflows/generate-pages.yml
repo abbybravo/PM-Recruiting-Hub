@@ -3,7 +3,7 @@ name: Generate Opportunity Pages
 on:
   push:
     paths:
-      - "data/opportunities.json"
+      - "data/opportunities.csv"
 
 permissions:
   contents: write
