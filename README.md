@@ -23,9 +23,6 @@ This project is inspired by the "awesome list" and internship-tracker traditions
 
 | Company | Role | Location | Recruiting Season | Application Status | Link |
 |---|---|---|---|---|---|
-| Stripe | Product Manager Intern | Remote (US) | Summer 2027 | 🟢 Open | _add link_ |
-| Figma | APM Program | San Francisco, CA | Summer 2027 | 🟡 Opening Soon | _add link_ |
-| NVIDIA | Technical Program Manager Intern | Santa Clara, CA | Summer 2027 | 🟢 Open | _add link_ |
 
 ---
 
@@ -39,7 +36,7 @@ This project is inspired by the "awesome list" and internship-tracker traditions
 
 ---
 
-## 📅 Recruiting Timeline
+## 📅 Recruiting Timeline *might delete later*
 
 A high-level view of the PM recruiting calendar. Full breakdown in [resources/recruiting-timeline.md](resources/recruiting-timeline.md).
 
@@ -59,15 +56,6 @@ Full list: [opportunities/product-management.md](opportunities/product-managemen
 
 | Company | Role | Location | Recruiting Season | Application Status | Link |
 |---|---|---|---|---|---|
-| Apple | Product Manager Intern | Cupertino, CA | Summer 2027 | 🟢 Open | _add link_ |
-| Microsoft | Product Manager Intern | Redmond, WA | Summer 2027 | 🟢 Open | _add link_ |
-| Google | APM Intern (STEP/Related) | Mountain View, CA | Summer 2027 | 🟡 Opening Soon | _add link_ |
-| Amazon | Product Manager Intern | Seattle, WA | Summer 2027 | 🟢 Open | _add link_ |
-| Adobe | Product Manager Intern | San Jose, CA | Summer 2027 | 🟢 Open | _add link_ |
-| Meta | Product Manager Intern | Menlo Park, CA | Summer 2027 | 🟡 Opening Soon | _add link_ |
-| Visa | Product Manager Intern | Foster City, CA | Summer 2027 | ⚪ Not Yet Open | _add link_ |
-| Capital One | Technology Product Manager Intern | McLean, VA | Summer 2027 | 🟢 Open | _add link_ |
-| LinkedIn | Product Manager Intern | Sunnyvale, CA | Summer 2027 | ⚪ Not Yet Open | _add link_ |
 
 ---
 
@@ -77,12 +65,6 @@ Full list: [opportunities/apm-programs.md](opportunities/apm-programs.md)
 
 | Company | Program Name | Location | Recruiting Season | Application Status | Link |
 |---|---|---|---|---|---|
-| Google | APM Program | Mountain View, CA | Fall 2026 | 🟢 Open | _add link_ |
-| Meta | RPM (Rotational PM) Program | Menlo Park, CA | Fall 2026 | 🟢 Open | _add link_ |
-| Uber | APM Program | San Francisco, CA | Fall 2026 | 🟡 Opening Soon | _add link_ |
-| Airbnb | APM Program | San Francisco, CA | Fall 2026 | ⚪ Not Yet Open | _add link_ |
-| Figma | APM Program | San Francisco, CA | Summer 2027 | 🟡 Opening Soon | _add link_ |
-| Notion | APM Program | San Francisco, CA | Summer 2027 | ⚪ Not Yet Open | _add link_ |
 
 ---
 
@@ -92,10 +74,6 @@ Full list: [opportunities/technical-program-management.md](opportunities/technic
 
 | Company | Role | Location | Recruiting Season | Application Status | Link |
 |---|---|---|---|---|---|
-| NVIDIA | TPM Intern | Santa Clara, CA | Summer 2027 | 🟢 Open | _add link_ |
-| Amazon | TPM Intern | Seattle, WA | Summer 2027 | 🟢 Open | _add link_ |
-| Microsoft | TPM Intern | Redmond, WA | Summer 2027 | 🟡 Opening Soon | _add link_ |
-| Google | TPM Intern | Mountain View, CA | Summer 2027 | ⚪ Not Yet Open | _add link_ |
 
 ---
 
@@ -105,9 +83,6 @@ Full list: [opportunities/product-operations.md](opportunities/product-operation
 
 | Company | Role | Location | Recruiting Season | Application Status | Link |
 |---|---|---|---|---|---|
-| Apple | Product Operations Intern | Cupertino, CA | Summer 2027 | 🟢 Open | _add link_ |
-| Stripe | Product Operations Intern | Remote (US) | Summer 2027 | 🟢 Open | _add link_ |
-| Capital One | Product Operations Analyst Intern | Richmond, VA | Summer 2027 | 🟡 Opening Soon | _add link_ |
 
 ---
 
@@ -117,10 +92,6 @@ Full list: [opportunities/new-grad.md](opportunities/new-grad.md)
 
 | Company | Role | Location | Recruiting Season | Application Status | Link |
 |---|---|---|---|---|---|
-| Amazon | New Grad Product Manager | Seattle, WA | Fall 2026 | 🟢 Open | _add link_ |
-| Adobe | New Grad Product Manager | San Jose, CA | Fall 2026 | 🟡 Opening Soon | _add link_ |
-| Visa | New Grad Product Manager | Austin, TX | Fall 2026 | ⚪ Not Yet Open | _add link_ |
-| LinkedIn | New Grad Product Manager | Sunnyvale, CA | Fall 2026 | ⚪ Not Yet Open | _add link_ |
 
 ---
 
@@ -134,7 +105,7 @@ Full list: [opportunities/new-grad.md](opportunities/new-grad.md)
 
 ---
 
-## 📚 Career Resources
+## 📚 Career Resources *might switch to Notion page in the future*
 
 | Resource | Description |
 |---|---|
@@ -159,7 +130,7 @@ Full list: [opportunities/new-grad.md](opportunities/new-grad.md)
 
 ## 🤝 How to Contribute
 
-This repository is built **by** the PM recruiting community **for** the PM recruiting community. You don't need to be a maintainer to contribute — anyone can:
+This repository is built **by** the PM recruiting community **for** the PM recruiting community. Anyone can contribute:
 
 - ➕ [Add a new opportunity](.github/ISSUE_TEMPLATE/add-opportunity.md)
 - 🚫 [Report an expired listing](.github/ISSUE_TEMPLATE/report-expired.md)
@@ -185,5 +156,5 @@ This project is licensed under the [MIT License](LICENSE). Opportunity data is c
 <p align="center">
   <img src="assets/logo.png" alt="PM Recruiting Hub Logo" width="80" />
   <br/>
-  <sub>Built by students, for students. ⭐ Star this repo to support the PM recruiting community.</sub>
+  <sub>Built by Abigail Bravo, for aspiring PMs ⭐ Star this repo to support PM Recruiting Hub!</sub>
 </p>
