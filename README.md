@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/PM Recruiting Hub banner.png" alt="PM Recruiting Hub Banner" width="850">
+  <img src="assets/PM Recruiting Hub banner.png" alt="PM Recruiting Hub Banner" width="100%">
 </p>
 
 
