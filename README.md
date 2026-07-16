@@ -183,7 +183,7 @@ This project is licensed under the [MIT License](LICENSE). Opportunity data is c
 ---
 
 <p align="center">
-  <img src="assets/logo.svg" alt="PM Recruiting Hub Logo" width="80" />
+  <img src="assets/logo.png" alt="PM Recruiting Hub Logo" width="80" />
   <br/>
   <sub>Built by students, for students. ⭐ Star this repo to support the PM recruiting community.</sub>
 </p>
