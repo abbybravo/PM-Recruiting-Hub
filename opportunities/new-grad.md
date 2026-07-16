@@ -6,7 +6,6 @@ See the [status legend](../README.md#-status-legend) for symbol meanings.
 
 | Company | Role | Location | Recruiting Season | Application Status | Link |
 |---|---|---|---|---|---|
-| darabricks | Associate Product Manager, New Grad | Seattle, WA | 2027 Start | 🟢 Open | https://www.databricks.com/company/careers/university-recruiting/associate-product-manager-new-grad-2027-start-7586263002 |
 
 
 ## Notes for New Grad Applicants
