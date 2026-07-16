@@ -5,6 +5,9 @@ on:
     paths:
       - "data/opportunities.json"
 
+permissions:
+  contents: write
+
 jobs:
   generate:
     runs-on: ubuntu-latest
