@@ -7,7 +7,13 @@ const opportunities = JSON.parse(
 const pages = {};
 
 function createTableRow(job) {
-  return `| ${job.company} | ${job.role} | ${job.locations.join("; ")} | ${job.seasons.join(", ")} | ${job.status} | ${job.link} |`;
+  const term = job.startTerm || job.seasons || [];
+
+  const formattedTerm = Array.isArray(term)
+    ? term.join(", ")
+    : term;
+
+  return `| ${job.company} | ${job.role} | ${job.locations.join("; ")} | ${formattedTerm} | ${job.status} | ${job.link} |`;
 }
 
 
