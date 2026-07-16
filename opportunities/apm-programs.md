@@ -6,12 +6,6 @@ See the [status legend](../README.md#-status-legend) for symbol meanings.
 
 | Company | Program Name | Location | Recruiting Season | Application Status | Link |
 |---|---|---|---|---|---|
-| Google | APM Program | Mountain View, CA | Fall 2026 | 🟢 Open | _add link_ |
-| Meta | RPM (Rotational Product Manager) Program | Menlo Park, CA | Fall 2026 | 🟢 Open | _add link_ |
-| Uber | APM Program | San Francisco, CA | Fall 2026 | 🟡 Opening Soon | _add link_ |
-| Airbnb | APM Program | San Francisco, CA | Fall 2026 | ⚪ Not Yet Open | _add link_ |
-| Figma | APM Program | San Francisco, CA | Summer 2027 | 🟡 Opening Soon | _add link_ |
-| Notion | APM Program | San Francisco, CA | Summer 2027 | ⚪ Not Yet Open | _add link_ |
 
 ## About APM Programs
 
