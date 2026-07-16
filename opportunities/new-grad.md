@@ -6,10 +6,8 @@ See the [status legend](../README.md#-status-legend) for symbol meanings.
 
 | Company | Role | Location | Recruiting Season | Application Status | Link |
 |---|---|---|---|---|---|
-| Amazon | New Grad Product Manager | Seattle, WA | Fall 2026 | 🟢 Open | _add link_ |
-| Adobe | New Grad Product Manager | San Jose, CA | Fall 2026 | 🟡 Opening Soon | _add link_ |
-| Visa | New Grad Product Manager | Austin, TX | Fall 2026 | ⚪ Not Yet Open | _add link_ |
-| LinkedIn | New Grad Product Manager | Sunnyvale, CA | Fall 2026 | ⚪ Not Yet Open | _add link_ |
+| darabricks | Associate Product Manager, New Grad | Seattle, WA | 2027 Start | 🟢 Open | https://www.databricks.com/company/careers/university-recruiting/associate-product-manager-new-grad-2027-start-7586263002 |
+
 
 ## Notes for New Grad Applicants
 
