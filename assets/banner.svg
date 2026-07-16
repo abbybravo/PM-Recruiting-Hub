@@ -1,0 +1,50 @@
+<svg width="1200" height="300" viewBox="0 0 1200 300" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1e3a5f"/>
+      <stop offset="50%" stop-color="#2c5282"/>
+      <stop offset="100%" stop-color="#1a365d"/>
+    </linearGradient>
+    <linearGradient id="accentGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#63b3ed"/>
+      <stop offset="100%" stop-color="#4299e1"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="300" fill="url(#bgGradient)"/>
+
+  <!-- Decorative grid pattern -->
+  <g opacity="0.08" stroke="#ffffff" stroke-width="1">
+    <line x1="0" y1="60" x2="1200" y2="60"/>
+    <line x1="0" y1="120" x2="1200" y2="120"/>
+    <line x1="0" y1="180" x2="1200" y2="180"/>
+    <line x1="0" y1="240" x2="1200" y2="240"/>
+  </g>
+
+  <!-- Decorative circles -->
+  <circle cx="1080" cy="70" r="70" fill="#ffffff" opacity="0.05"/>
+  <circle cx="1140" cy="220" r="45" fill="#63b3ed" opacity="0.08"/>
+  <circle cx="90" cy="240" r="55" fill="#ffffff" opacity="0.04"/>
+
+  <!-- Rocket icon -->
+  <g transform="translate(90, 95)">
+    <path d="M55 0 C70 15, 78 40, 70 75 L55 90 L40 75 C32 40, 40 15, 55 0 Z" fill="#63b3ed"/>
+    <circle cx="55" cy="35" r="10" fill="#1a365d"/>
+    <path d="M40 60 L20 85 L35 78 Z" fill="#4299e1"/>
+    <path d="M70 60 L90 85 L75 78 Z" fill="#4299e1"/>
+    <path d="M48 88 L55 110 L62 88 Z" fill="#f6ad55"/>
+  </g>
+
+  <!-- Title -->
+  <text x="220" y="145" font-family="Arial, Helvetica, sans-serif" font-size="56" font-weight="bold" fill="#ffffff">
+    PM Recruiting Hub
+  </text>
+
+  <!-- Subtitle -->
+  <text x="222" y="185" font-family="Arial, Helvetica, sans-serif" font-size="22" fill="#bee3f8">
+    Product Management Opportunities • Internships • APM • TPM
+  </text>
+
+  <!-- Bottom accent bar -->
+  <rect x="0" y="292" width="1200" height="8" fill="url(#accentGradient)"/>
+</svg>

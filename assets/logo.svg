@@ -1,0 +1,17 @@
+<svg width="200" height="200" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="logoGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#2c5282"/>
+      <stop offset="100%" stop-color="#1a365d"/>
+    </linearGradient>
+  </defs>
+
+  <circle cx="100" cy="100" r="96" fill="url(#logoGradient)" stroke="#63b3ed" stroke-width="4"/>
+
+  <text x="100" y="128" font-family="Arial, Helvetica, sans-serif" font-size="88" font-weight="bold"
+        fill="#ffffff" text-anchor="middle">
+    PM
+  </text>
+
+  <path d="M55 148 L75 148 L70 165 L60 165 Z" fill="#f6ad55"/>
+</svg>
