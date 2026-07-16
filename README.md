@@ -1,30 +1,5 @@
 <p align="center">
-  <img src="assets/banner.svg" alt="PM Recruiting Hub Banner" width="100%" />
-</p>
-
-<h1 align="center">🚀 PM Recruiting Hub</h1>
-
-<p align="center">
-  <b>A community-maintained collection of Product Management internships, APM programs, TPM roles, Product Operations opportunities, and early-career PM positions.</b>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Open%20Source-💚-brightgreen" alt="Open Source" />
-  <img src="https://img.shields.io/badge/Contributions-Welcome-blue" alt="Contributions Welcome" />
-  <img src="https://img.shields.io/badge/Last%20Updated-July%202026-orange" alt="Last Updated" />
-  <img src="https://img.shields.io/badge/Recruiting%20Cycle-Fall%202026%20%7C%20Spring%202027%20%7C%20Summer%202027-purple" alt="Recruiting Cycle" />
-</p>
-
-<p align="center">
-  <a href="#-recently-added-opportunities">Recently Added</a> •
-  <a href="#-closing-soon">Closing Soon</a> •
-  <a href="#-recruiting-timeline">Timeline</a> •
-  <a href="#-product-management-internships">PM Internships</a> •
-  <a href="#-associate-product-manager-programs">APM Programs</a> •
-  <a href="#️-technical-program-management">TPM</a> •
-  <a href="#-product-operations">Product Ops</a> •
-  <a href="#-new-grad-opportunities">New Grad</a> •
-  <a href="#-how-to-contribute">Contribute</a>
+  <img src="assets/PM Recruiting Hub banner.pdf" alt="PM Recruiting Hub Banner" width="100%">
 </p>
 
 ---
