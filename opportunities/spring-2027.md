@@ -1,4 +1,8 @@
 # Spring 2027 Recruiting Cycle
+
+| Company | Role | Location | Application Status | Link |
+|---|---|---|---|---|
+
 <!-- SPRING_START -->
 
 <!-- SPRING_END -->
