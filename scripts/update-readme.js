@@ -100,6 +100,20 @@ readme = updateSection(
   )
 );
 
+// Program Management
+readme = updateSection(
+  readme,
+  "<!-- PM_START -->",
+  "<!-- PM_END -->",
+  createTable(
+    opportunities.filter(
+      job =>
+        job.roleType === "Program Management" &&
+        job.employmentType === "Internship"
+    )
+  )
+);
+
 
 fs.writeFileSync(
   readmePath,
