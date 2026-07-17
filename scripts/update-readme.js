@@ -222,6 +222,13 @@ readme = updateSection(
 );
 
 
+console.log(
+  "Fall jobs:",
+  opportunities.filter(
+    job => job.startTerm?.toString().includes("Fall")
+  )
+);
+
 fs.writeFileSync(
   readmePath,
   readme
