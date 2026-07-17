@@ -6,17 +6,17 @@ Opportunities recruiting during the **Spring 2027** cycle — typically off-cycl
 
 ## Product Management Internships
 
-| Company | Role | Location | Start Term | Application Status | Link |
+| Company | Role | Location | Application Status | Link |
 |---|---|---|---|---|
 
 ## Product Operations
 
-| Company | Role | Location | Start Term | Application Status | Link | 
+| Company | Role | Location | Application Status | Link | 
 |---|---|---|---|---|
 
 ## New Grad Product Management
 
-| Company | Role | Location | Start Term | Application Status | Link |
+| Company | Role | Location | Application Status | Link |
 |---|---|---|---|---|
 
 ---
