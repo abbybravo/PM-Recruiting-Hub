@@ -28,10 +28,19 @@ function generatePages() {
 
   opportunities.forEach((job) => {
 
-    const destinations = [
-      job.roleType,
-      job.employmentType
-    ].filter(Boolean);
+    let destinations = [];
+
+    if (job.employmentType === "New Grad") {
+      destinations.push("New Grad");
+    }
+    
+    else if (job.employmentType === "Internship") {
+      destinations.push(job.roleType);
+    }
+    
+    else {
+      destinations.push(job.roleType);
+    }
 
     destinations.forEach((page) => {
 
