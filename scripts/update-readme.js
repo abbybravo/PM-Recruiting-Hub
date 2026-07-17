@@ -186,11 +186,11 @@ readme = updateSection(
 // Fall Recruiting
 readme = updateSection(
   readme,
-  "<!-- FALL_RECRUITING_START -->",
-  "<!-- FALL_RECRUITING_END -->",
+  "<!-- FALL_START -->",
+  "<!-- FALL_END -->",
   createTable(
     opportunities.filter(
-      job => job.startTerm === "Fall"
+      job.startTerm.includes("Fall")
     )
   )
 );
@@ -199,11 +199,11 @@ readme = updateSection(
 // Spring Recruiting
 readme = updateSection(
   readme,
-  "<!-- SPRING_RECRUITING_START -->",
-  "<!-- SPRING_RECRUITING_END -->",
+  "<!-- SPRING_START -->",
+  "<!-- SPRING_END -->",
   createTable(
     opportunities.filter(
-      job => job.startTerm === "Spring"
+      job.startTerm.includes("Spring")
     )
   )
 );
@@ -212,11 +212,11 @@ readme = updateSection(
 // Summer Recruiting
 readme = updateSection(
   readme,
-  "<!-- SUMMER_RECRUITING_START -->",
-  "<!-- SUMMER_RECRUITING_END -->",
+  "<!-- SUMMER_START -->",
+  "<!-- SUMMER_END -->",
   createTable(
     opportunities.filter(
-      job => job.startTerm === "Summer"
+      job.startTerm.includes("Summer")
     )
   )
 );
