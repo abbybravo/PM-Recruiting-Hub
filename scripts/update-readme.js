@@ -26,7 +26,8 @@ function createRow(job) {
 
 // Replace content between markers
 function updateSection(readme, startMarker, endMarker, content) {
-
+console.log("Looking for:", startMarker);
+  
   const startIndex = readme.indexOf(startMarker);
   const endIndex = readme.indexOf(endMarker);
 
