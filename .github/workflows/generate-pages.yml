@@ -22,8 +22,9 @@ jobs:
           node-version: 22
 
       - name: Generate pages
-        run: node scripts/generate-pages.js
-             node scripts/update-readme.js
+        run: |
+          node scripts/generate-pages.js
+          node scripts/update-readme.js
 
       - name: Commit generated pages
         run: |
