@@ -63,7 +63,7 @@ Full list: [opportunities/apm-programs.md](opportunities/apm-programs.md)
 
 ## ⚙️ Program Management
 
-Full list: [opportunities/technical-program-management.md](opportunities/technical-program-management.md)
+Full list: [opportunities/program-management.md](opportunities/program-management.md)
 
 <!-- PM_START -->
 
