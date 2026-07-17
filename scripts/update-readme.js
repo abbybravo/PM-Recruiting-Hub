@@ -21,6 +21,21 @@ function createRow(job) {
   return `| ${job.company} | ${job.role} | ${job.locations.join("; ")} | ${job.startTerm || ""} | ${job.status} | ${job.link} |`;
 }
 
+//for closing soon
+function createClosingSoonRow(job) {
+  const deadline = new Date(job.deadline).toLocaleDateString(
+    "en-US",
+    {
+      month: "short",
+      day: "numeric",
+      year: "numeric"
+    }
+  );
+
+  return `| ${job.company} | ${job.role} | ${job.locations.join("; ")} | ${job.startTerm || ""} | ${deadline} | ${job.status} | ${job.link} |`;
+}
+
+
 
 function createTable(jobs) {
 
@@ -40,6 +55,21 @@ function createTable(jobs) {
 | Company | Role | Location | Start Term | Application Status | Link |
 |---|---|---|---|---|---|
 ${latestJobs.map(createRow).join("\n")}
+`;
+}
+
+//for closing soon
+function createClosingSoonTable(jobs) {
+  const closingSoonJobs = jobs.slice(0, 5);
+
+  if (closingSoonJobs.length === 0) {
+    return "_No opportunities currently closing soon._";
+  }
+
+  return `
+| Company | Role | Location | Start Term | Deadline | Application Status | Link |
+|---|---|---|---|---|---|---|
+${closingSoonJobs.map(createClosingSoonRow).join("\n")}
 `;
 }
 
@@ -92,21 +122,24 @@ const today = new Date();
 const oneWeekFromNow = new Date();
 oneWeekFromNow.setDate(today.getDate() + 7);
 
+const closingSoonJobs = opportunities
+  .filter(job => {
+    if (!job.deadline) return false;
+
+    const deadline = new Date(job.deadline);
+
+    return deadline >= today && deadline <= oneWeekFromNow;
+  })
+  .sort(
+    (a, b) => new Date(a.deadline) - new Date(b.deadline)
+  );
+
+
 readme = updateSection(
   readme,
   "<!-- CLOSING_SOON_START -->",
   "<!-- CLOSING_SOON_END -->",
-  createTable(
-    opportunities
-      .filter(job => {
-        if (!job.deadline) return false;
-
-        const deadline = new Date(job.deadline);
-
-        return deadline >= today && deadline <= oneWeekFromNow;
-      })
-      .sort((a, b) => new Date(a.deadline) - new Date(b.deadline))
-  )
+  createClosingSoonTable(closingSoonJobs)
 );
 
 // New Grad
