@@ -1,1 +1,15 @@
-
+{
+  "company": "databricks",
+  "role": "Product Management Intern",
+  "roleType": "Product Management",
+  "employmentType": "Internship",
+  "locations": [
+    "Bellevue, WA",
+    "Mountain View, CA",
+    "San Francisco, CA"
+  ],
+  "startTerm": "Summer 2027",
+  "status": "🟢 Open",
+  "link": "https://www.databricks.com/company/careers/university-recruiting/associate-product-manager-new-grad-2027-start-7586263002",
+  "dateAdded": "2026-07-16"
+}
