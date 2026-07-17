@@ -41,7 +41,7 @@ What matters more than the degree itself is being able to demonstrate: user empa
 
 ## When should I apply?
 
-- **Internships:** Most PM internship postings for the following summer open between **August and November** (see the [Recruiting Timeline](recruiting-timeline.md)). Apply within the first 1–2 weeks of a posting going live when possible.
+- **Internships:** Most PM internship postings for the following summer open between **August and November**, but some open as early as May. Apply within the first 1–2 weeks of a posting going live when possible.
 - **APM Programs:** Similar timing to internships — many open in the fall for the following year, though some (especially for new grads) recruit later.
 - **New Grad roles:** Often open in fall for the graduating class, with some additional postings through spring.
 - **General rule:** Earlier is almost always better. Many companies review applications on a rolling basis, so an application submitted in week one has a meaningfully better shot than the same application submitted in week six.
