@@ -190,7 +190,7 @@ readme = updateSection(
   "<!-- FALL_RECRUITING_END -->",
   createTable(
     opportunities.filter(
-      job => job.recruitingSeason === "Fall"
+      job => job.startTerm === "Fall"
     )
   )
 );
@@ -203,7 +203,7 @@ readme = updateSection(
   "<!-- SPRING_RECRUITING_END -->",
   createTable(
     opportunities.filter(
-      job => job.recruitingSeason === "Spring"
+      job => job.startTerm === "Spring"
     )
   )
 );
@@ -216,7 +216,7 @@ readme = updateSection(
   "<!-- SUMMER_RECRUITING_END -->",
   createTable(
     opportunities.filter(
-      job => job.recruitingSeason === "Summer"
+      job => job.startTerm === "Summer"
     )
   )
 );
