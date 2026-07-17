@@ -4,13 +4,8 @@ TPM roles sit at the intersection of engineering and program management — a st
 
 See the [status legend](../README.md#-status-legend) for symbol meanings.
 
-| Company | Role | Location | Recruiting Season | Application Status | Link |
+| Company | Role | Location | Start Term | Application Status | Link |
 |---|---|---|---|---|---|
-| NVIDIA | TPM Intern | Santa Clara, CA | Summer 2027 | 🟢 Open | _add link_ |
-| Amazon | TPM Intern | Seattle, WA | Summer 2027 | 🟢 Open | _add link_ |
-| Microsoft | TPM Intern | Redmond, WA | Summer 2027 | 🟡 Opening Soon | _add link_ |
-| Google | TPM Intern | Mountain View, CA | Summer 2027 | ⚪ Not Yet Open | _add link_ |
-| Microsoft | TPM (Early Career) | Redmond, WA | Fall 2026 | 🟡 Opening Soon | _add link_ |
 
 ## What TPM Involves
 
