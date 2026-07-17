@@ -7,18 +7,11 @@
 
 ## 📖 About
 
-**PM Recruiting Hub** is an open-source, community-maintained directory of Product Management recruiting opportunities for students and early-career professionals. It covers Product Management internships, Associate Product Manager (APM) programs, Technical Program Management (TPM) roles, Product Operations positions, and new grad PM roles — all in one place, kept fresh by contributors like you.
-
-This project is inspired by the "awesome list" and internship-tracker traditions of the open-source community, purpose-built for the PM career path.
+**PM Recruiting Hub** is an open-source, community-maintained directory of Product Management recruiting opportunities for students and early-career professionals. It covers Product Management internships, Associate Product Manager (APM) programs, Technical Program Management (TPM) roles, Product Ops, and everything in between.
 
 **Supported recruiting cycles:** Fall 2026 • Spring 2027 • Summer 2027 • *(future cycles added as they open)*
 
-> 💡 **New here?** Start with the [Recruiting Timeline](resources/recruiting-timeline.md) to understand when to apply, then browse the tables below.
-
----
-
 ## 🔥 Recently Added Opportunities
-Updated as new listings are merged. Add your find via a pull request — see Contributing.
 
 <!-- RECENT_OPPORTUNITIES_START -->
 
@@ -28,25 +21,18 @@ Updated as new listings are merged. Add your find via a pull request — see Con
 
 ## ⏰ Closing Soon
 
-*Listings with known upcoming deadlines. Contributors: please update or remove once a deadline passes — see [Reporting Expired Listings](CONTRIBUTING.md#reporting-expired-listings).*
-
 <!-- CLOSING_SOON_START -->
 
 <!-- CLOSING_SOON_END -->
 
 ---
 
-## 📅 Recruiting Timeline *might delete later*
+## 📅 Recruiting Timeline *switching to Notion Page later*
 
 A high-level view of the PM recruiting calendar. Full breakdown in [resources/recruiting-timeline.md](resources/recruiting-timeline.md).
 
 | Phase | Typical Window | Focus |
 |---|---|---|
-| Early Preparation | Freshman / Sophomore year | Build foundations, join clubs, start projects |
-| Summer Prep | May – July | Resume polish, networking, mock interviews |
-| Fall Recruiting | August – November | Bulk of internship & new grad applications open |
-| Interview Season | September – January | Product sense, execution, behavioral rounds |
-| Spring Recruiting | January – April | Remaining internship & off-cycle roles |
 
 ---
 
@@ -119,7 +105,7 @@ Full list: [opportunities/new-grad.md](opportunities/new-grad.md)
 
 ---
 
-## 📚 Career Resources *might switch to Notion page in the future*
+## 📚 Career Resources *switching to Notion page in the future*
 
 | Resource | Description |
 |---|---|
@@ -142,7 +128,7 @@ Full list: [opportunities/new-grad.md](opportunities/new-grad.md)
 
 ---
 
-## 🤝 How to Contribute
+## 🤝 How to Contribute *UNAVAILABLE AT THE MOMENT*
 
 This repository is built **by** the PM recruiting community **for** the PM recruiting community. Anyone can contribute:
 
