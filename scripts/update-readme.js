@@ -93,7 +93,9 @@ readme = updateSection(
   "<!-- PRODUCT_MANAGEMENT_END -->",
   createTable(
     opportunities.filter(
-      job => job.roleType === "Product Management"
+      job =>
+        job.roleType === "Product Management" &&
+        job.employmentType === "Internship"
     )
   )
 );
