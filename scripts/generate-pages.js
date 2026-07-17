@@ -21,8 +21,10 @@ function generatePages() {
   const pages = {};
 
   function createTableRow(job) {
-    const term = job.startTerm || "";
-
+    const term = Array.isArray(job.startTerm)
+      ? job.startTerm.join("; ")
+      : job.startTerm || "";
+  
     return `| ${job.company} | ${job.role} | ${job.locations.join("; ")} | ${term} | ${job.status} | ${job.link} |`;
   }
 
