@@ -71,5 +71,5 @@ ${pages[page].join("\n")}
     console.log(`Generated ${filename}.md`);
 
   });
-
 }
+  generatePages();
