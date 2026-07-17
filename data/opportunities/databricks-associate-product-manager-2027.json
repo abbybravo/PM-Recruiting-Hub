@@ -1,7 +1,7 @@
 {
-  "company": "databricks",
+  "company": "Databricks",
   "role": "Associate Product Manager",
-  "track": "Product Management",
+  "roleType": "Product Management",
   "employmentType": "New Grad",
   "locations": [
     "Bellevue, WA",
