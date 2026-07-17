@@ -30,9 +30,9 @@ Updated as new listings are merged. Add your find via a pull request — see Con
 
 *Listings with known upcoming deadlines. Contributors: please update or remove once a deadline passes — see [Reporting Expired Listings](CONTRIBUTING.md#reporting-expired-listings).*
 
-| Company | Role | Deadline | Link |
-|---|---|---|---|
-| _Add a closing-soon listing via PR_ | | | |
+<!-- CLOSING_SOON_START -->
+
+<!-- CLOSING_SOON_END -->
 
 ---
 
@@ -64,8 +64,9 @@ Full list: [opportunities/product-management.md](opportunities/product-managemen
 
 Full list: [opportunities/apm-programs.md](opportunities/apm-programs.md)
 
-| Company | Program Name | Location | Start Term | Application Status | Link |
-|---|---|---|---|---|---|
+<!-- APM_PROGRAMS_START -->
+
+<!-- APM_PROGRAMS_END -->
 
 ---
 
@@ -73,8 +74,9 @@ Full list: [opportunities/apm-programs.md](opportunities/apm-programs.md)
 
 Full list: [opportunities/technical-program-management.md](opportunities/technical-program-management.md)
 
-| Company | Role | Location | Start Term | Application Status | Link |
-|---|---|---|---|---|---|
+<!-- TPM_START -->
+
+<!-- TPM_END -->
 
 ---
 
@@ -82,8 +84,9 @@ Full list: [opportunities/technical-program-management.md](opportunities/technic
 
 Full list: [opportunities/product-operations.md](opportunities/product-operations.md)
 
-| Company | Role | Location | Start Term | Application Status | Link |
-|---|---|---|---|---|---|
+<!-- PRODUCT_OPERATIONS_START -->
+
+<!-- PRODUCT_OPERATIONS_END -->
 
 ---
 
@@ -91,8 +94,9 @@ Full list: [opportunities/product-operations.md](opportunities/product-operation
 
 Full list: [opportunities/new-grad.md](opportunities/new-grad.md)
 
-| Company | Role | Location | Start Term | Application Status | Link |
-|---|---|---|---|---|---|
+<!-- NEW_GRAD_START -->
+
+<!-- NEW_GRAD_END -->
 
 ---
 
