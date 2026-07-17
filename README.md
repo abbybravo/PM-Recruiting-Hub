@@ -99,6 +99,14 @@ Full list: [opportunities/product-operations.md](opportunities/product-operation
 
 ---
 
+## Product-Adjacent/Other
+
+<!-- PRODUCT_ADJACENT_START -->
+
+<!-- PRODUCT_ADJACENT_END -->
+
+---
+
 ## 🎓 New Grad Opportunities
 
 Full list: [opportunities/new-grad.md](opportunities/new-grad.md)
