@@ -183,6 +183,44 @@ readme = updateSection(
   )
 );
 
+// Fall Recruiting
+readme = updateSection(
+  readme,
+  "<!-- FALL_RECRUITING_START -->",
+  "<!-- FALL_RECRUITING_END -->",
+  createTable(
+    opportunities.filter(
+      job => job.recruitingSeason === "Fall"
+    )
+  )
+);
+
+
+// Spring Recruiting
+readme = updateSection(
+  readme,
+  "<!-- SPRING_RECRUITING_START -->",
+  "<!-- SPRING_RECRUITING_END -->",
+  createTable(
+    opportunities.filter(
+      job => job.recruitingSeason === "Spring"
+    )
+  )
+);
+
+
+// Summer Recruiting
+readme = updateSection(
+  readme,
+  "<!-- SUMMER_RECRUITING_START -->",
+  "<!-- SUMMER_RECRUITING_END -->",
+  createTable(
+    opportunities.filter(
+      job => job.recruitingSeason === "Summer"
+    )
+  )
+);
+
 
 fs.writeFileSync(
   readmePath,
