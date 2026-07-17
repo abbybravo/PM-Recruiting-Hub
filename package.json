@@ -3,3 +3,10 @@
     "generate": "node scripts/generate-pages.js"
   }
 }
+{
+  "name": "pm-recruiting-hub",
+  "version": "1.0.0",
+  "dependencies": {
+    "csv-parser": "^3.0.0"
+  }
+}
