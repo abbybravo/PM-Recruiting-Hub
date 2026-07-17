@@ -1,25 +1,24 @@
-const fs = require("fs");
+const csvParser = require("csv-parser");
 
-const csv = fs.readFileSync("./data/opportunities.csv", "utf8");
+const opportunities = [];
 
-const lines = csv.trim().split("\n");
-
-const headers = lines[0].split(",");
-
-const opportunities = lines.slice(1).map(line => {
-  const values = line.split(",");
-
-  return {
-    company: values[0],
-    role: values[1],
-    categories: values[2].split(";"),
-    locations: values[3].split(";"),
-    startTerm: values[4],
-    status: values[5],
-    link: values[6],
-    dateAdded: values[7]
-  };
-});
+fs.createReadStream("./data/opportunities.csv")
+  .pipe(csvParser())
+  .on("data", (row) => {
+    opportunities.push({
+      company: row.company,
+      role: row.role,
+      categories: row.categories.split(";"),
+      locations: row.locations.split(";"),
+      startTerm: row.startTerm,
+      status: row.status,
+      link: row.link,
+      dateAdded: row.dateAdded
+    });
+  })
+  .on("end", () => {
+    generatePages();
+  });
 
 const pages = {};
 
