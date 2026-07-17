@@ -1,7 +1,7 @@
 # Summer 2027
-<!-- SUMMER_RECRUITING_START -->
+<!-- SUMMER_START -->
 
-<!-- SUMMER_RECRUITING_END -->
+<!-- SUMMER_END -->
 
 
 ---
