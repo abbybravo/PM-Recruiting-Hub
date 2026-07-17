@@ -50,7 +50,7 @@ A high-level view of the PM recruiting calendar. Full breakdown in [resources/re
 
 ---
 
-## 📱 Product Management Internships
+## 📱 Product Management
 
 Full list: [opportunities/product-management.md](opportunities/product-management.md)
 
