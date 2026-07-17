@@ -103,8 +103,8 @@ readme = updateSection(
 // Program Management
 readme = updateSection(
   readme,
-  "<!-- PM_START -->",
-  "<!-- PM_END -->",
+  "<!-- PROGRAM_MANAGEMENT_START -->",
+  "<!-- PROGRAM_MANAGEMENT_END -->",
   createTable(
     opportunities.filter(
       job =>
