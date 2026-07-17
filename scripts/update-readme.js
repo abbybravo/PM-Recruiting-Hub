@@ -190,7 +190,7 @@ readme = updateSection(
   "<!-- FALL_END -->",
   createTable(
     opportunities.filter(
-      job.startTerm.includes("Fall")
+      job => job.startTerm?.toString().includes("Fall")
     )
   )
 );
@@ -203,7 +203,7 @@ readme = updateSection(
   "<!-- SPRING_END -->",
   createTable(
     opportunities.filter(
-      job.startTerm.includes("Spring")
+      job => job.startTerm?.toString().includes("Spring")
     )
   )
 );
@@ -216,7 +216,7 @@ readme = updateSection(
   "<!-- SUMMER_END -->",
   createTable(
     opportunities.filter(
-      job.startTerm.includes("Summer")
+      job => job.startTerm?.toString().includes("Summer")
     )
   )
 );
