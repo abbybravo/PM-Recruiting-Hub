@@ -3,6 +3,10 @@ const path = require("path");
 
 const opportunitiesFolder = "./data/opportunities";
 const readmePath = "./README.md";
+// fall, spring, summer
+const fallPath = "./cycles/fall-2026.md";
+const springPath = "./cycles/spring-2027.md";
+const summerPath = "./cycles/summer-2027.md";
 
 const opportunities = fs
   .readdirSync(opportunitiesFolder)
@@ -102,6 +106,20 @@ function updateSection(readme, startMarker, endMarker, content) {
 
 let readme = fs.readFileSync(readmePath, "utf8");
 
+//for recruiting cycles
+function updateFile(filePath, startMarker, endMarker, content) {
+  let file = fs.readFileSync(filePath, "utf8");
+
+  file = updateSection(
+    file,
+    startMarker,
+    endMarker,
+    content
+  );
+
+  fs.writeFileSync(filePath, file);
+}
+
 // Recently Added
 readme = updateSection(
   readme,
@@ -184,8 +202,8 @@ readme = updateSection(
 );
 
 // Fall Recruiting
-readme = updateSection(
-  readme,
+updateFile(
+  fallPath,
   "<!-- FALL_START -->",
   "<!-- FALL_END -->",
   createTable(
@@ -197,8 +215,8 @@ readme = updateSection(
 
 
 // Spring Recruiting
-readme = updateSection(
-  readme,
+updateFile(
+  springPath,
   "<!-- SPRING_START -->",
   "<!-- SPRING_END -->",
   createTable(
@@ -210,8 +228,8 @@ readme = updateSection(
 
 
 // Summer Recruiting
-readme = updateSection(
-  readme,
+updateFile(
+  summerPath,
   "<!-- SUMMER_START -->",
   "<!-- SUMMER_END -->",
   createTable(
