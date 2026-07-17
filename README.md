@@ -55,7 +55,11 @@ A high-level view of the PM recruiting calendar. Full breakdown in [resources/re
 Full list: [opportunities/product-management.md](opportunities/product-management.md)
 
 <!-- PRODUCT_MANAGEMENT_START -->
-_No opportunities currently listed._
+
+| Company | Role | Location | Start Term | Application Status | Link |
+|---|---|---|---|---|---|
+| databricks | Product Management Intern | Bellevue, WA; Mountain View, CA; San Francisco, CA | Summer 2027 | 🟢 Open | https://www.databricks.com/company/careers/product/product-management-intern-summer-2027-6883068002 |
+
 <!-- PRODUCT_MANAGEMENT_END -->
 
 ---
