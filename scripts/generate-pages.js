@@ -1,17 +1,30 @@
 const fs = require("fs");
 
-const opportunities = JSON.parse(
-  fs.readFileSync("./data/opportunities.json", "utf8")
-);
+const csv = fs.readFileSync("./data/opportunities.csv", "utf8");
+
+const lines = csv.trim().split("\n");
+
+const headers = lines[0].split(",");
+
+const opportunities = lines.slice(1).map(line => {
+  const values = line.split(",");
+
+  return {
+    company: values[0],
+    role: values[1],
+    categories: values[2].split(";"),
+    locations: values[3].split(";"),
+    startTerm: values[4],
+    status: values[5],
+    link: values[6],
+    dateAdded: values[7]
+  };
+});
 
 const pages = {};
 
 function createTableRow(job) {
-  const term = job.startTerm || job.seasons || [];
-
-  const formattedTerm = Array.isArray(term)
-    ? term.join(", ")
-    : term;
+  const term = job.startTerm || "";
 
   return `| ${job.company} | ${job.role} | ${job.locations.join("; ")} | ${formattedTerm} | ${job.status} | ${job.link} |`;
 }
@@ -20,12 +33,10 @@ function createTableRow(job) {
 opportunities.forEach((job) => {
 
   const categories = job.categories || [];
-  const seasons = job.seasons || [];
 
-  const destinations = [
-    ...categories,
-    ...seasons
-  ];
+const destinations = [
+  ...categories
+];
 
   destinations.forEach((page) => {
 
@@ -50,7 +61,8 @@ Object.keys(pages).forEach((page)=>{
 
   const content = `# ${page}
 
-| Company | Role | Location | Recruiting Season | Application Status | Link |
+
+| Company | Role | Location | Start Term | Application Status | Link |
 |---|---|---|---|---|---|
 ${pages[page].join("\n")}
 
