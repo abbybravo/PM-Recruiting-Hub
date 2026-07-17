@@ -1,1 +1,15 @@
-
+{
+  "company": "databricks",
+  "role": "Associate Product Manager",
+  "track": "Product Management",
+  "employmentType": "New Grad",
+  "locations": [
+    "Bellevue, WA",
+    "Mountain View, CA",
+    "San Francisco, CA"
+  ],
+  "startTerm": "2027 Start",
+  "status": "🟢 Open",
+  "link": "https://www.databricks.com/company/careers/product/product-management-intern-summer-2027-6883068002",
+  "dateAdded": "2026-07-20"
+}
