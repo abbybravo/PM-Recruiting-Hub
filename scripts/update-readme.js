@@ -72,6 +72,19 @@ function updateSection(readme, startMarker, endMarker, content) {
 
 let readme = fs.readFileSync(readmePath, "utf8");
 
+// Recently Added
+readme = updateSection(
+  readme,
+  "<!-- RECENT_OPPORTUNITIES_START -->",
+  "<!-- RECENT_OPPORTUNITIES_END -->",
+  createTable(
+    opportunities
+      .sort(
+        (a, b) => new Date(b.dateAdded) - new Date(a.dateAdded)
+      )
+      .slice(0, 10)
+  )
+);
 
 // New Grad
 readme = updateSection(
