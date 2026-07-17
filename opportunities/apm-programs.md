@@ -4,7 +4,7 @@ APM (and equivalent rotational PM) programs are structured, cohort-based full-ti
 
 See the [status legend](../README.md#-status-legend) for symbol meanings.
 
-| Company | Program Name | Location | Recruiting Season | Application Status | Link |
+| Company | Program Name | Location | Start Term | Application Status | Link |
 |---|---|---|---|---|---|
 
 ## About APM Programs
