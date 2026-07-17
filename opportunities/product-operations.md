@@ -4,11 +4,8 @@ Product Operations roles bridge product, data, and cross-functional execution �
 
 See the [status legend](../README.md#-status-legend) for symbol meanings.
 
-| Company | Role | Location | Recruiting Season | Application Status | Link |
+| Company | Role | Location | Start Term | Application Status | Link |
 |---|---|---|---|---|---|
-| Apple | Product Operations Intern | Cupertino, CA | Summer 2027 | 🟢 Open | _add link_ |
-| Stripe | Product Operations Intern | Remote (US) | Summer 2027 | 🟢 Open | _add link_ |
-| Capital One | Product Operations Analyst Intern | Richmond, VA | Summer 2027 | 🟡 Opening Soon | _add link_ |
 
 ## What Product Ops Involves
 
