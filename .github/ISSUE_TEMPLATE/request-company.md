@@ -1,6 +1,6 @@
 ---
 name: "🏢 Request a Company"
-about: Ask the community to start tracking a company not yet listed
+about: Ask to start tracking a company not yet listed
 title: "[REQUEST] Company Name"
 labels: ["company-request"]
 assignees: []
