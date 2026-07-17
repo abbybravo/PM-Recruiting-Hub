@@ -57,6 +57,8 @@ PM candidates from technical backgrounds (like engineering majors) have a natura
 
 This shows: technical capability, user-centered prioritization, and a measurable outcome — the three things a PM resume needs to demonstrate simultaneously.
 
+## Notion Page with Resume Templates: https://app.notion.com/p/pmrecruitinghub/Resume-Templates-3a09840850e780a6a5bbea8197cbe843?source=copy_link
+
 ---
 
 ⬅️ [Back to README](../README.md)
