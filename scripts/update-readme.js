@@ -86,6 +86,29 @@ readme = updateSection(
   )
 );
 
+// Closing Soon
+const today = new Date();
+
+const oneWeekFromNow = new Date();
+oneWeekFromNow.setDate(today.getDate() + 7);
+
+readme = updateSection(
+  readme,
+  "<!-- CLOSING_SOON_START -->",
+  "<!-- CLOSING_SOON_END -->",
+  createTable(
+    opportunities
+      .filter(job => {
+        if (!job.deadline) return false;
+
+        const deadline = new Date(job.deadline);
+
+        return deadline >= today && deadline <= oneWeekFromNow;
+      })
+      .sort((a, b) => new Date(a.deadline) - new Date(b.deadline))
+  )
+);
+
 // New Grad
 readme = updateSection(
   readme,
