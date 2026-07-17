@@ -1,24 +1,17 @@
 const fs = require("fs");
-const csvParser = require("csv-parser");
+const path = require("path");
 
-const opportunities = [];
+const opportunitiesFolder = "./data/opportunities";
 
-fs.createReadStream("./data/opportunities.csv")
-  .pipe(csvParser())
-  .on("data", (row) => {
-    opportunities.push({
-      company: row.company,
-      role: row.role,
-      categories: row.categories.split(";"),
-      locations: row.locations.split(";"),
-      startTerm: row.startTerm,
-      status: row.status,
-      link: row.link,
-      dateAdded: row.dateAdded
-    });
-  })
-  .on("end", () => {
-    generatePages();
+const opportunities = fs
+  .readdirSync(opportunitiesFolder)
+  .filter(file => file.endsWith(".json"))
+  .map(file => {
+    const filePath = path.join(opportunitiesFolder, file);
+
+    return JSON.parse(
+      fs.readFileSync(filePath, "utf8")
+    );
   });
 
 function generatePages() {
@@ -33,7 +26,10 @@ function generatePages() {
 
   opportunities.forEach((job) => {
 
-    const destinations = job.categories || [];
+    const destinations = [
+      job.roleType,
+      job.employmentType
+    ].filter(Boolean);
 
     destinations.forEach((page) => {
 
