@@ -39,7 +39,7 @@
 
 ---
 
-## 📅 Recruiting Timeline *switching to Notion Page later*
+## 📅 Recruiting Timeline *Coming Soon - switching to Notion Page later*
 
 A high-level view of the PM recruiting calendar. Full breakdown in [resources/recruiting-timeline.md](resources/recruiting-timeline.md).
 
@@ -123,7 +123,7 @@ Full list: [opportunities/new-grad.md](opportunities/new-grad.md)
 
 ---
 
-## 📚 Career Resources *switching to Notion page in the future*
+## 📚 Career Resources *Coming Soon - switching to Notion Page later*
 
 | Resource | Description |
 |---|---|
