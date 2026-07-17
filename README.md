@@ -56,6 +56,10 @@ Full list: [opportunities/product-management.md](opportunities/product-managemen
 
 <!-- PRODUCT_MANAGEMENT_START -->
 
+| Company | Role | Location | Start Term | Application Status | Link |
+|---|---|---|---|---|---|
+| databricks | Associate Product Manager, New Grad | Bellevue, WA; Mountain View, CA; San Francisco, CA | 2027 Start | 🟢 Open | https://www.databricks.com/company/careers/university-recruiting/associate-product-manager-new-grad-2027-start-7586263002 |
+
 <!-- PRODUCT_MANAGEMENT_END -->
 
 ---
@@ -95,6 +99,10 @@ Full list: [opportunities/product-operations.md](opportunities/product-operation
 Full list: [opportunities/new-grad.md](opportunities/new-grad.md)
 
 <!-- NEW_GRAD_START -->
+
+| Company | Role | Location | Start Term | Application Status | Link |
+|---|---|---|---|---|---|
+| databricks | Associate Product Manager, New Grad | Bellevue, WA; Mountain View, CA; San Francisco, CA | 2027 Start | 🟢 Open | https://www.databricks.com/company/careers/university-recruiting/associate-product-manager-new-grad-2027-start-7586263002 |
 
 <!-- NEW_GRAD_END -->
 
