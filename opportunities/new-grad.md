@@ -1,6 +1,6 @@
 # New Grad
 
-| Company | Role | Location | Recruiting Season | Application Status | Link |
+| Company | Role | Location | Start Term | Application Status | Link |
 |---|---|---|---|---|---|
 
 
