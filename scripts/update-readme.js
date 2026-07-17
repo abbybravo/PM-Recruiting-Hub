@@ -4,9 +4,9 @@ const path = require("path");
 const opportunitiesFolder = "./data/opportunities";
 const readmePath = "./README.md";
 // fall, spring, summer
-const fallPath = "./cycles/fall-2026.md";
-const springPath = "./cycles/spring-2027.md";
-const summerPath = "./cycles/summer-2027.md";
+const fallPath = "./opportunities/fall-2026.md";
+const springPath = "./opportunities/spring-2027.md";
+const summerPath = "./opportunities/summer-2027.md";
 
 const opportunities = fs
   .readdirSync(opportunitiesFolder)
