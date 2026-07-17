@@ -64,7 +64,7 @@ Full list: [opportunities/product-management.md](opportunities/product-managemen
 
 Full list: [opportunities/apm-programs.md](opportunities/apm-programs.md)
 
-| Company | Program Name | Location | Recruiting Season | Application Status | Link |
+| Company | Program Name | Location | Start Term | Application Status | Link |
 |---|---|---|---|---|---|
 
 ---
@@ -73,7 +73,7 @@ Full list: [opportunities/apm-programs.md](opportunities/apm-programs.md)
 
 Full list: [opportunities/technical-program-management.md](opportunities/technical-program-management.md)
 
-| Company | Role | Location | Recruiting Season | Application Status | Link |
+| Company | Role | Location | Start Term | Application Status | Link |
 |---|---|---|---|---|---|
 
 ---
@@ -82,7 +82,7 @@ Full list: [opportunities/technical-program-management.md](opportunities/technic
 
 Full list: [opportunities/product-operations.md](opportunities/product-operations.md)
 
-| Company | Role | Location | Recruiting Season | Application Status | Link |
+| Company | Role | Location | Start Term | Application Status | Link |
 |---|---|---|---|---|---|
 
 ---
@@ -91,7 +91,7 @@ Full list: [opportunities/product-operations.md](opportunities/product-operation
 
 Full list: [opportunities/new-grad.md](opportunities/new-grad.md)
 
-| Company | Role | Location | Recruiting Season | Application Status | Link |
+| Company | Role | Location | Start Term | Application Status | Link |
 |---|---|---|---|---|---|
 
 ---
