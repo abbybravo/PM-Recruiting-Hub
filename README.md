@@ -54,8 +54,9 @@ A high-level view of the PM recruiting calendar. Full breakdown in [resources/re
 
 Full list: [opportunities/product-management.md](opportunities/product-management.md)
 
-| Company | Role | Location | Recruiting Season | Application Status | Link |
-|---|---|---|---|---|---|
+<!-- PRODUCT_MANAGEMENT_START -->
+
+<!-- PRODUCT_MANAGEMENT_END -->
 
 ---
 
