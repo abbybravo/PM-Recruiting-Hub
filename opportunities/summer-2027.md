@@ -1,7 +1,7 @@
 # Summer 2027
+<!-- SUMMER_RECRUITING_START -->
 
-| Company | Role | Location | Recruiting Season | Application Status | Link |
-|---|---|---|---|---|---|
+<!-- SUMMER_RECRUITING_END -->
 
 
 ---
