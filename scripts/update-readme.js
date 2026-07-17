@@ -54,14 +54,22 @@ function updateSection(readme, startMarker, endMarker, content) {
 // Table template
 function createTable(jobs) {
 
-  if (jobs.length === 0) {
+  function createTable(jobs) {
+
+  const latestJobs = jobs
+    .sort((a, b) => 
+      new Date(b.dateAdded) - new Date(a.dateAdded)
+    )
+    .slice(0, 5);
+
+  if (latestJobs.length === 0) {
     return "_No opportunities currently listed._";
   }
 
   return `
 | Company | Role | Location | Start Term | Application Status | Link |
 |---|---|---|---|---|---|
-${jobs.map(createRow).join("\n")}
+${latestJobs.map(createRow).join("\n")}
 `;
 
 }
