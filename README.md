@@ -61,13 +61,13 @@ Full list: [opportunities/apm-programs.md](opportunities/apm-programs.md)
 
 ---
 
-## ⚙️ Technical Program Management
+## ⚙️ Program Management
 
 Full list: [opportunities/technical-program-management.md](opportunities/technical-program-management.md)
 
-<!-- TPM_START -->
+<!-- PM_START -->
 
-<!-- TPM_END -->
+<!-- PM_END -->
 
 ---
 
