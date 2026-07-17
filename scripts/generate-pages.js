@@ -14,6 +14,8 @@ const opportunities = fs
     );
   });
 
+console.log(opportunities);
+
 function generatePages() {
 
   const pages = {};
