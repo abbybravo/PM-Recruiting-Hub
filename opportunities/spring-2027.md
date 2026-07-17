@@ -1,7 +1,7 @@
 # Spring 2027 Recruiting Cycle
-<!-- SPRING_RECRUITING_START -->
+<!-- SPRING_START -->
 
-<!-- SPRING_RECRUITING_END -->
+<!-- SPRING_END -->
 
 ---
 
