@@ -72,4 +72,8 @@ ${pages[page].join("\n")}
 
   });
 }
+
   generatePages();
+
+console.log("DONE RUNNING GENERATOR");
+
