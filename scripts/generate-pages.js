@@ -1,3 +1,4 @@
+const fs = require("fs");
 const csvParser = require("csv-parser");
 
 const opportunities = [];
@@ -20,62 +21,57 @@ fs.createReadStream("./data/opportunities.csv")
     generatePages();
   });
 
-const pages = {};
+function generatePages() {
 
-function createTableRow(job) {
-  const term = job.startTerm || "";
+  const pages = {};
 
-  return `| ${job.company} | ${job.role} | ${job.locations.join("; ")} | ${formattedTerm} | ${job.status} | ${job.link} |`;
-}
+  function createTableRow(job) {
+    const term = job.startTerm || "";
 
+    return `| ${job.company} | ${job.role} | ${job.locations.join("; ")} | ${term} | ${job.status} | ${job.link} |`;
+  }
 
-opportunities.forEach((job) => {
+  opportunities.forEach((job) => {
 
-  const categories = job.categories || [];
+    const destinations = job.categories || [];
 
-const destinations = [
-  ...categories
-];
+    destinations.forEach((page) => {
 
-  destinations.forEach((page) => {
+      if (!pages[page]) {
+        pages[page] = [];
+      }
 
-    if (!pages[page]) {
-      pages[page] = [];
-    }
+      pages[page].push(createTableRow(job));
 
-    pages[page].push(createTableRow(job));
+    });
 
   });
 
-});
+  Object.keys(pages).forEach((page) => {
 
-
-Object.keys(pages).forEach((page)=>{
-
-  const filename =
-    page
+    const filename = page
       .toLowerCase()
       .replaceAll(" ", "-")
       .replaceAll("/", "-");
 
-  const content = `# ${page}
-
+    const content = `# ${page}
 
 | Company | Role | Location | Start Term | Application Status | Link |
 |---|---|---|---|---|---|
 ${pages[page].join("\n")}
-
 
 ---
 
 ⬅️ [Back to README](../README.md)
 `;
 
-  fs.writeFileSync(
-    `./opportunities/${filename}.md`,
-    content
-  );
+    fs.writeFileSync(
+      `./opportunities/${filename}.md`,
+      content
+    );
 
-  console.log(`Generated ${filename}.md`);
+    console.log(`Generated ${filename}.md`);
 
-});
+  });
+
+}
