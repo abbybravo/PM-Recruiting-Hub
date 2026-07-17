@@ -18,11 +18,11 @@ This project is inspired by the "awesome list" and internship-tracker traditions
 ---
 
 ## 🔥 Recently Added Opportunities
+Updated as new listings are merged. Add your find via a pull request — see Contributing.
 
-*Updated as new listings are merged. Add your find via a pull request — see [Contributing](#-how-to-contribute).*
+<!-- RECENT_OPPORTUNITIES_START -->
 
-| Company | Role | Location | Recruiting Season | Application Status | Link |
-|---|---|---|---|---|---|
+<!-- RECENT_OPPORTUNITIES_END -->
 
 ---
 
