@@ -1,9 +1,5 @@
 # Contributing to PM Recruiting Hub
 
-Thank you for helping keep this resource accurate and useful for the PM recruiting community! This repository only stays valuable because contributors like you add new listings, fix broken links, and remove expired postings.
-
-You do **not** need to be a maintainer or an experienced open-source contributor to help. If you can fill out a Markdown table, you can contribute.
-
 ---
 
 ## Ways to Contribute
