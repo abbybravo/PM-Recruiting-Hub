@@ -45,6 +45,7 @@ function generatePages() {
 
   });
 
+  console.log("FINAL PAGES:", JSON.stringify(pages, null, 2));
   Object.keys(pages).forEach((page) => {
 
     const filename = page
