@@ -65,9 +65,9 @@ Full list: [opportunities/apm-programs.md](opportunities/apm-programs.md)
 
 Full list: [opportunities/program-management.md](opportunities/program-management.md)
 
-<!-- PM_START -->
+<!-- PROGRAM_MANAGEMENT_START -->
 
-<!-- PM_END -->
+<!-- PROGRAM_MANAGEMENT_END -->
 
 ---
 
