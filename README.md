@@ -7,7 +7,7 @@
 
 ## 📖 About
 
-**PM Recruiting Hub** is an open-source, community-maintained directory of Product Management recruiting opportunities for students and early-career professionals. It covers Product Management internships, Associate Product Manager (APM) programs, Technical Program Management (TPM) roles, Product Ops, and everything in between.
+**PM Recruiting Hub** is an open-source, community-maintained directory of Product Management recruiting opportunities for students and early-career professionals. It covers Product Management internships, Associate Product Manager (APM) programs, Technical Program Management (TPM) roles, Product Ops, and everything in between. Wishing everybody luck this recruiting season, and hopefully I can help make it a bit easier!!
 
 **Supported recruiting cycles:** Fall 2026 • Spring 2027 • Summer 2027 • *(future cycles added as they open)*
 
