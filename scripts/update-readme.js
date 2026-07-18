@@ -199,6 +199,18 @@ readme = updateSection(
   )
 );
 
+
+readme = updateSection(
+  readme,
+"<!-- APM_PROGRAMS_START -->",
+"<!-- APM_PROGRAMS_END -->",
+createTable(
+    opportunities.filter(
+      job => job.employmentType === "APM"
+    )
+  )
+);
+
 // Program Management
 readme = updateSection(
   readme,
