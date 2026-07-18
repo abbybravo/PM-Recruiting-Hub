@@ -159,7 +159,7 @@ Full list: [opportunities/new-grad.md](opportunities/new-grad.md)
 
 ---
 
-## 🤝 How to Contribute *UNAVAILABLE AT THE MOMENT*
+## 🤝 How to Contribute
 
 This repository is built **by** the PM recruiting community **for** the PM recruiting community. Anyone can contribute:
 
