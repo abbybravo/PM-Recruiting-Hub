@@ -167,7 +167,7 @@ readme = updateSection(
     "<!-- PRODUCT_ADJACENT_OTHER_END -->",
     createTable(
       opportunities.filter(
-        job => job.employmentType === "Product-Adjacent/Other"
+        job => job.roleType === "Product-Adjacent/Other"
       )
     )
   );
