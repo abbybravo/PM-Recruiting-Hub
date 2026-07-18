@@ -163,8 +163,8 @@ readme = updateSection(
 //for other opportunities that don't clearly state what type it is/PM-related stuff
 readme = updateSection(
   readme,
-    "<!-- PRODUCT_ADJACENT_START -->",
-    "<!-- PRODUCT_ADJACENT_END -->",
+    "<!-- PRODUCT_ADJACENT_OTHER_START -->",
+    "<!-- PRODUCT_ADJACENT_OTHER_END -->",
     createTable(
       opportunities.filter(
         job => job.employmentType === "Product-Adjacent/Other"
