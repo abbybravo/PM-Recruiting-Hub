@@ -17,7 +17,7 @@
 
 | Company | Role | Location | Start Term | Application Status | Link |
 |---|---|---|---|---|---|
-| Apple | Engineering Program Management Undergrad Internships | Varies | Fall 2026,Spring 2027,Summer 2027 | 🟢 Open | https://jobs.apple.com/en-us/details/200664330-3810/engineering-program-management-undergrad-internships |
+| AppleEEE | Engineering Program Management Undergrad Internships | Varies | Fall 2026,Spring 2027,Summer 2027 | 🟢 Open | https://jobs.apple.com/en-us/details/200664330-3810/engineering-program-management-undergrad-internships |
 | Apple | Engineering Program Management Masters Internships | Varies | Fall 2026,Spring 2027,Summer 2027 | 🟢 Open | https://jobs.apple.com/en-us/details/200664336-3810/engineering-program-management-masters-internships |
 | salesforce | Summer 2027 Intern - Associate Product Manager (APM) | San Francisco, California | Summer 2027 | 🟢 Open | https://www.salesforce.com/company/careers/jobs/JR348039/summer-2027-intern-associate-product-manager-apm/ |
 | Snowflake | AI-Powered BI Intern: Fall 2026 | Location Menlo Park, California, United States | Fall 2026 | 🟢 Open | https://careers.snowflake.com/us/en/job/SNCOUS37E886ABE05B4F2A9A4161BFD89E660FEXTERNALENUS634E9517583C446C9A13C0C5FE5960BB/AI-Powered-BI-Intern-Fall-2026?utm_source=Q2P9NP2NNP&utm_medium=phenom-feeds&gh_src=ed5543a62 |
@@ -81,7 +81,7 @@ Full list: [opportunities/program-management.md](opportunities/program-managemen
 
 | Company | Role | Location | Start Term | Application Status | Link |
 |---|---|---|---|---|---|
-| Apple | Engineering Program Management Undergrad Internships | Varies | Fall 2026,Spring 2027,Summer 2027 | 🟢 Open | https://jobs.apple.com/en-us/details/200664330-3810/engineering-program-management-undergrad-internships |
+| AppleEEE | Engineering Program Management Undergrad Internships | Varies | Fall 2026,Spring 2027,Summer 2027 | 🟢 Open | https://jobs.apple.com/en-us/details/200664330-3810/engineering-program-management-undergrad-internships |
 | Apple | Engineering Program Management Masters Internships | Varies | Fall 2026,Spring 2027,Summer 2027 | 🟢 Open | https://jobs.apple.com/en-us/details/200664336-3810/engineering-program-management-masters-internships |
 
 <!-- PROGRAM_MANAGEMENT_END -->
@@ -103,7 +103,11 @@ Full list: [opportunities/product-operations.md](opportunities/product-operation
 Full list: [opportunities/product-adjacent-other.md](opportunities/product-adjacent-other.md)
 
 <!-- PRODUCT_ADJACENT_OTHER_START -->
-_No opportunities currently listed._
+
+| Company | Role | Location | Start Term | Application Status | Link |
+|---|---|---|---|---|---|
+| Snowflake | AI-Powered BI Intern: Fall 2026 | Location Menlo Park, California, United States | Fall 2026 | 🟢 Open | https://careers.snowflake.com/us/en/job/SNCOUS37E886ABE05B4F2A9A4161BFD89E660FEXTERNALENUS634E9517583C446C9A13C0C5FE5960BB/AI-Powered-BI-Intern-Fall-2026?utm_source=Q2P9NP2NNP&utm_medium=phenom-feeds&gh_src=ed5543a62 |
+
 <!-- PRODUCT_ADJACENT_OTHER_END -->
 
 ---
