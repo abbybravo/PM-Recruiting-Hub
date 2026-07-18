@@ -39,15 +39,6 @@
 
 ---
 
-## 📅 Recruiting Timeline *Coming Soon - switching to Notion Page later*
-
-A high-level view of the PM recruiting calendar. Full breakdown in [resources/recruiting-timeline.md](resources/recruiting-timeline.md).
-
-| Phase | Typical Window | Focus |
-|---|---|---|
-
----
-
 ## 📱 Product Management
 
 Full list: [opportunities/product-management.md](opportunities/product-management.md)
@@ -134,6 +125,15 @@ Full list: [opportunities/new-grad.md](opportunities/new-grad.md)
 | Fall 2026 | [opportunities/fall-2026.md](opportunities/fall-2026.md) |
 | Spring 2027 | [opportunities/spring-2027.md](opportunities/spring-2027.md) |
 | Summer 2027 | [opportunities/summer-2027.md](opportunities/summer-2027.md) |
+
+---
+
+## 📅 Recruiting Timeline *Coming Soon - switching to Notion Page later*
+
+A high-level view of the PM recruiting calendar. Full breakdown in [resources/recruiting-timeline.md](resources/recruiting-timeline.md).
+
+| Phase | Typical Window | Focus |
+|---|---|---|
 
 ---
 
