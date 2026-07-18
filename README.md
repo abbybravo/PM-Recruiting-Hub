@@ -54,16 +54,6 @@ Full list: [opportunities/product-management.md](opportunities/product-managemen
 
 ---
 
-## 🚀 Associate Product Manager Programs
-
-Full list: [opportunities/apm-programs.md](opportunities/apm-programs.md)
-
-<!-- APM_PROGRAMS_START -->
-_No opportunities currently listed._
-<!-- APM_PROGRAMS_END -->
-
----
-
 ## ⚙️ Program Management
 
 Full list: [opportunities/program-management.md](opportunities/program-management.md)
