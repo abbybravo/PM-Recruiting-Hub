@@ -1,8 +1,8 @@
 {
   "company": "databricks",
   "role": "Associate Product Manager, New Grad",
-  "roleType": "Product Management",
-  "employmentType": [ "New Grad", "APM"],
+  "roleType": "Product Management", "APM",
+  "employmentType": "New Grad",
   "locations": [
     "Bellevue, WA",
     "Mountain View, CA",
