@@ -100,7 +100,7 @@ Full list: [opportunities/product-operations.md](opportunities/product-operation
 
 ## Product-Adjacent/Other
 
-Full list: [opportunities/product-adjacent/other.md](opportunities/product-adjacent/other.md)
+Full list: [opportunities/product-adjacent-other.md](opportunities/product-adjacent-other.md)
 
 <!-- PRODUCT_ADJACENT_START -->
 _No opportunities currently listed._
