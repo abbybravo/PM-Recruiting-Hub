@@ -102,9 +102,9 @@ Full list: [opportunities/product-operations.md](opportunities/product-operation
 
 Full list: [opportunities/product-adjacent-other.md](opportunities/product-adjacent-other.md)
 
-<!-- PRODUCT_ADJACENT_START -->
+<!-- PRODUCT_ADJACENT_OTHER_START -->
 _No opportunities currently listed._
-<!-- PRODUCT_ADJACENT_END -->
+<!-- PRODUCT_ADJACENT_OTHER_END -->
 
 ---
 
