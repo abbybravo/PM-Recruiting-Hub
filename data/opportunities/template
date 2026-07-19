@@ -1,1 +1,17 @@
+{
+  "company": "company",
+  "role": "pm blah inter",
+  "roleType": "Product Management",
+  "employmentType": "Internship",
+  "locations": [
+    "Varies"
+  ],
+  "startTerm": [
+    "Spring 2027",
+    "Summer 2027"
+  ],
+  "status": "🟢 Open",
+  "link": "COMING SOON IN AUGUST",
+  "dateAdded": "2026-07-18"
+}
 
