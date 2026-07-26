@@ -30,11 +30,7 @@
 ## ⏰ Closing Soon
 
 <!-- CLOSING_SOON_START -->
-
-| Company | Role | Location | Start Term | Deadline | Application Status | Link |
-|---|---|---|---|---|---|---|
-| salesforce | Summer 2027 Intern - Associate Product Manager (APM) | San Francisco, California | Summer 2027 | Jul 24, 2026 | 🟢 Open | https://www.salesforce.com/company/careers/jobs/JR348039/summer-2027-intern-associate-product-manager-apm/ |
-
+_No opportunities currently closing soon._
 <!-- CLOSING_SOON_END -->
 
 ---
@@ -47,7 +43,7 @@ Full list: [opportunities/product-management.md](opportunities/product-managemen
 
 | Company | Role | Location | Start Term | Application Status | Link |
 |---|---|---|---|---|---|
-| salesforce | Summer 2027 Intern - Associate Product Manager (APM) | San Francisco, California | Summer 2027 | 🟢 Open | https://www.salesforce.com/company/careers/jobs/JR348039/summer-2027-intern-associate-product-manager-apm/ |
+| salesforce | Summer 2027 Intern - Associate Product Manager (APM) | San Francisco, California | Summer 2027 | 🔴 Closed | https://www.salesforce.com/company/careers/jobs/JR348039/summer-2027-intern-associate-product-manager-apm/ |
 | databricks | Product Management Intern | Bellevue, WA; Mountain View, CA; San Francisco, CA | Summer 2027 | 🟢 Open | https://www.databricks.com/company/careers/product/product-management-intern-summer-2027-6883068002 |
 
 <!-- PRODUCT_MANAGEMENT_END -->
