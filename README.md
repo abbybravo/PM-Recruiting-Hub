@@ -119,6 +119,17 @@ Full list: [opportunities/new-grad.md](opportunities/new-grad.md)
 
 ---
 
+## Closed 
+
+Full list: [opportunities/closed.md](opportunities/closed.md) 
+
+<!-- CLOSED_START --> 
+
+| Company | Role | Location | Start Term | Application Status | Link | 
+|---|---|---|---|---|---| 
+
+<!-- CLOSED_END --> ---
+
 ## 📅 Recruiting Timeline *Coming Soon - switching to Notion Page later*
 
 A high-level view of the PM recruiting calendar. Full breakdown in [resources/recruiting-timeline.md](resources/recruiting-timeline.md).
