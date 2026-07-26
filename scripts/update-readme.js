@@ -276,5 +276,19 @@ fs.writeFileSync(
   readme
 );
 
+// CLOSED
+readme = updateSection(
+  readme,
+  "<!-- CLOSED_START -->",
+  "<!-- CLOSED_END -->",
+  createTable(
+  opportunities.filter(job => {
+    const deadline = new Date(job.deadline);
+    const today = new Date();
+
+    return deadline < today;
+    })
+  )
+);
 
 console.log("README updated successfully!");
