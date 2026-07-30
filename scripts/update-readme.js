@@ -8,6 +8,9 @@ const fallPath = "./opportunities/fall-2026.md";
 const springPath = "./opportunities/spring-2027.md";
 const summerPath = "./opportunities/summer-2027.md";
 
+//closed
+const closedPath = "./opportunities/closed.md";
+
 const opportunities = fs
   .readdirSync(opportunitiesFolder)
   .filter(file => file.endsWith(".json"))
@@ -272,18 +275,26 @@ console.log(
 );
 
 // CLOSED
+const closedJobs = opportunities
+  .filter(job => {
+    if (!job.deadline) return false;
+
+    return new Date(job.deadline) < new Date();
+  })
+  .sort(
+    (a, b) => new Date(b.deadline) - new Date(a.deadline)
+  );
 readme = updateSection(
   readme,
   "<!-- CLOSED_START -->",
   "<!-- CLOSED_END -->",
-  createTable(
-  opportunities.filter(job => {
-    const deadline = new Date(job.deadline);
-    const today = new Date();
-
-    return deadline < today;
-    })
-  )
+  createTable(closedJobs)
+);
+updateFile(
+  closedPath,
+  "<!-- CLOSED_START -->",
+  "<!-- CLOSED_END -->",
+  createTable(closedJobs)
 );
 
 fs.writeFileSync(
