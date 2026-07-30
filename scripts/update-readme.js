@@ -271,11 +271,6 @@ console.log(
   )
 );
 
-fs.writeFileSync(
-  readmePath,
-  readme
-);
-
 // CLOSED
 readme = updateSection(
   readme,
@@ -290,5 +285,11 @@ readme = updateSection(
     })
   )
 );
+
+fs.writeFileSync(
+  readmePath,
+  readme
+);
+
 
 console.log("README updated successfully!");
