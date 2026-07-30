@@ -37,7 +37,7 @@ _No opportunities currently closing soon._
 
 ## 📱 Product Management
 
-Full list: [opportunities/product-management.md](opportunities/product-management.md)
+See Full List HERE: [opportunities/product-management.md](opportunities/product-management.md)
 
 <!-- PRODUCT_MANAGEMENT_START -->
 
@@ -53,7 +53,7 @@ Full list: [opportunities/product-management.md](opportunities/product-managemen
 
 ## ⚙️ Program Management
 
-Full list: [opportunities/program-management.md](opportunities/program-management.md)
+See Full List HERE: [opportunities/program-management.md](opportunities/program-management.md)
 
 <!-- PROGRAM_MANAGEMENT_START -->
 
@@ -70,7 +70,7 @@ Full list: [opportunities/program-management.md](opportunities/program-managemen
 
 ## 📊 Product Operations
 
-Full list: [opportunities/product-operations.md](opportunities/product-operations.md)
+See Full List HERE: [opportunities/product-operations.md](opportunities/product-operations.md)
 
 <!-- PRODUCT_OPERATIONS_START -->
 
@@ -80,7 +80,7 @@ Full list: [opportunities/product-operations.md](opportunities/product-operation
 
 ## Product-Adjacent/Other
 
-Full list: [opportunities/product-adjacent-other.md](opportunities/product-adjacent-other.md)
+See Full List HERE: [opportunities/product-adjacent-other.md](opportunities/product-adjacent-other.md)
 
 <!-- PRODUCT_ADJACENT_OTHER_START -->
 
@@ -98,7 +98,7 @@ Full list: [opportunities/product-adjacent-other.md](opportunities/product-adjac
 
 ## 🎓 New Grad Opportunities
 
-Full list: [opportunities/new-grad.md](opportunities/new-grad.md)
+See Full List HERE: [opportunities/new-grad.md](opportunities/new-grad.md)
 
 <!-- NEW_GRAD_START -->
 
@@ -122,7 +122,7 @@ Full list: [opportunities/new-grad.md](opportunities/new-grad.md)
 
 ## Closed 
 
-Full list: [opportunities/closed.md](opportunities/closed.md) 
+See Full List HERE: [opportunities/closed.md](opportunities/closed.md) 
 
 <!-- CLOSED_START -->
 
