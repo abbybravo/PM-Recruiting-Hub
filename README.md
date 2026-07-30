@@ -15,10 +15,12 @@
     <img src="https://skillicons.dev/icons?i=linkedin" height="40" title="LinkedIn"/>
   </a>
   &nbsp;
+  
   <a href="https://tiktok.com/@theone6372_">
     <img src="https://static.vecteezy.com/system/resources/previews/065/386/719/non_2x/tiktok-icon-white-logo-tiktok-app-transparent-background-premium-social-media-design-for-digital-download-free-png.png" height="40" title="TikTok"/>
   </a>
   &nbsp;
+  
   <a href="https://abbybravo.com">
     <img src="https://www.abbybravo.com/images/portfolio-logo4.png" height="40" title="Portfolio"/>
   </a>
