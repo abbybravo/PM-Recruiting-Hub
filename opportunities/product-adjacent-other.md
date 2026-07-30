@@ -4,6 +4,7 @@
 |---|---|---|---|---|---|
 | AMD | INTERNSHIPS AND CO-OPS RELEASE AUGUST | Varies | Spring 2027; Summer 2027 | 🟡 Opening Soon | COMING SOON IN AUGUST |
 | Adobe | The Intern Legacy - Virtual Recruiting Event |  | August 11, 2026 | 🟢 Open | https://careers.adobe.com/us/en/event/6a0ccc369c6fc67e77b1defb/The-Intern-Legacy |
+| Apple | Product Design Undergrad Internships | United States | Fall 2026; Spring 2027; Summer 2027 | 🟢 Open | https://jobs.apple.com/en-us/details/200664000-3810/product-design-undergrad-internships |
 | Apple | Business, Marketing & Creative Masters Internships | United States | Fall 2026; Spring 2027; Summer 2027 | 🟢 Open | https://jobs.apple.com/en-us/details/200664247-3810/business-marketing-creative-masters-internships |
 | Snowflake | AI-Powered BI Intern: Fall 2026 | Location Menlo Park, California, United States | Fall 2026 | 🟢 Open | https://careers.snowflake.com/us/en/job/SNCOUS37E886ABE05B4F2A9A4161BFD89E660FEXTERNALENUS634E9517583C446C9A13C0C5FE5960BB/AI-Powered-BI-Intern-Fall-2026?utm_source=Q2P9NP2NNP&utm_medium=phenom-feeds&gh_src=ed5543a62 |
 | Apple | Business, Marketing & Creative Undergrad Internships | United States | Fall 2026; Spring 2027; Summer 2027 | 🟢 Open | https://jobs.apple.com/en-us/details/200664241-3810/business-marketing-creative-undergrad-internships |
