@@ -9,23 +9,16 @@
 
 **PM Recruiting Hub** is a maintained directory of Product Management recruiting opportunities for students and early-career professionals by Abigail Bravo. It covers Product Management internships, Associate Product Manager (APM) programs, Technical Program Management (TPM) roles, Product Ops, and everything in between. Wishing everybody luck this recruiting season, and hopefully I can help make it a bit easier!!
 
-<p>
+<p align="left">
   <a href="YOUR_LINKEDIN_URL">
-    <img src="https://cdn.simpleicons.org/linkedin" width="18" alt="LinkedIn"/>
+    <img src="https://cdn.simpleicons.org/linkedin" width="24" alt="LinkedIn"/>
   </a>
-  <a href="YOUR_LINKEDIN_URL">LinkedIn</a>
-  &nbsp;&nbsp;•&nbsp;&nbsp;
-
   <a href="YOUR_TIKTOK_URL">
-    <img src="https://cdn.simpleicons.org/tiktok" width="18" alt="TikTok"/>
+    <img src="https://cdn.simpleicons.org/tiktok" width="24" alt="TikTok"/>
   </a>
-  <a href="YOUR_TIKTOK_URL">TikTok</a>
-  &nbsp;&nbsp;•&nbsp;&nbsp;
-
   <a href="https://abbybravo.com">
-    <img src="https://cdn.simpleicons.org/googlechrome" width="18" alt="Portfolio"/>
+    <img src="https://cdn.simpleicons.org/googlechrome" width="24" alt="Portfolio"/>
   </a>
-  <a href="https://abbybravo.com">Portfolio</a>
 </p>
 
 **Supported recruiting cycles:** Fall 2026 • Spring 2027 • Summer 2027 • *(future cycles added as they open)*
