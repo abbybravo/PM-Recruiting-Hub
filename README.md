@@ -14,7 +14,7 @@
     <img src="https://skillicons.dev/icons?i=linkedin" height="40" title="LinkedIn"/>
   </a>
 
-  <a href="tiktok.com/@theone6372_">
+  <a href="https://tiktok.com/@theone6372_">
     <img src="https://skillicons.dev/icons?i=tiktok" height="80" title="TikTok"/>
   </a>
 
