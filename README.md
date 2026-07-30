@@ -15,7 +15,7 @@
   </a>
 
   <a href="tiktok.com/@theone6372_">
-    <img src="https://skillicons.dev/icons?i=tiktok" height="40" title="TikTok"/>
+    <img src="https://skillicons.dev/icons?i=tiktok" height="80" title="TikTok"/>
   </a>
 
   <a href="https://abbybravo.com">
