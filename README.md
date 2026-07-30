@@ -14,6 +14,14 @@
     <img src="https://skillicons.dev/icons?i=linkedin" height="40" title="LinkedIn"/>
   </a>
 
+  <a href="tiktok.com/@theone6372_">
+    <img src="https://skillicons.dev/icons?i=tiktok" height="40" title="TikTok"/>
+  </a>
+
+  <a href="https://abbybravo.com">
+    <img src="https://www.abbybravo.com/images/portfolio-logo4.png" height="40" title="Portfolio"/>
+  </a>
+
 **Supported recruiting cycles:** Fall 2026 • Spring 2027 • Summer 2027 • *(future cycles added as they open)*
 
 ## 🔥 Recently Added Opportunities
