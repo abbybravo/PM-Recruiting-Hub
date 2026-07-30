@@ -5,10 +5,10 @@
 | Company | Role | Location | Start Term | Application Status | Link |
 |---|---|---|---|---|---|
 | appian | Product Manager (2027 Graduates) | McLean, Virginia | Summer 2027 | 🟢 Open | https://careers.appian.com/jobs/8069612-product-manager--2027-graduates- |
+| Apple | Business, Marketing & Creative Undergrad Internships | United States | Fall 2026,Spring 2027,Summer 2027 | 🟢 Open | https://jobs.apple.com/en-us/details/200664241-3810/business-marketing-creative-undergrad-internships |
 | Bank of America | Strategy and Management Summer Analyst Program - 2027 | Boston, Massachusetts; Charlotte, North Carolina; New York, New York | Summer 2027 | 🟢 Open | https://careers.bankofamerica.com/en-us/students/job-detail/14443/strategy-and-management-summer-analyst-program-2027-multiple-locations |
 | JPMorganChase | 2027 Chase Leadership Development Program - Summer Analyst Opportunity (New York Metro) | New York, NY, United States | Summer 2027 | 🟢 Open | https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210768204/?keyword=2027+Chase+Leadership+Development+Program+-+Summer+Analyst+Opportunity+%28New+York+Metro%29&location=United+States&locationId=300000000289738&locationLevel=country&mode=location |
 | AMD | INTERNSHIPS AND CO-OPS RELEASE AUGUST | Varies | Spring 2027,Summer 2027 | 🟡 Opening Soon | COMING SOON IN AUGUST |
-| JaneStreet | Strategy and Product Internship, May-August | New York | Summer 2027 | 🟢 Open | https://www.janestreet.com/join-jane-street/position/8621552002/ |
 
 <!-- SUMMER_END -->
 
