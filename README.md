@@ -109,9 +109,9 @@ See Full List HERE: [opportunities/product-adjacent-other.md](opportunities/prod
 |---|---|---|---|---|---|
 | Goldman Sachs | Varies | Varies | Summer 2027 | 🟢 Open | CAME OUT TODAY August 15th: https://www.goldmansachs.com/careers/students/programs-and-internships?0=gscom%3Aprogram-type%2Finternship&1=gscom%3Aprogram-region-careers%2Famericas |
 | Micron | New College Grad - Business Analyst, Digital Workplace | Boise, Idaho, United States of America | Not explicitly stated, assume Summer 2027 | 🟢 Open | https://careers.micron.com/careers/job/43648581?domain=micron.com&hl=en |
+| Micron | New College Grad - Supply Chain Planner | Boise, Idaho, United States of America | Not explicitly stated, assume Summer 2027 | 🟢 Open | https://careers.micron.com/careers/job/43071101?domain=micron.com&hl=en |
 | Microsoft | Supply Chain Program Management Intern | United States, Washington, Redmond | Summer 2027 | 🟢 Open | https://apply.careers.microsoft.com/careers/job/1970393556958168?domain=microsoft.com&hl=en |
 | Apple | Product Design Masters Engineering Internships | United States | Fall 2026,Spring 2027,Summer 2027 | 🟢 Open | https://jobs.apple.com/en-us/details/200663996-3810/product-design-masters-engineering-internships?team=STDNT |
-| Apple | Product Design PhD Internships | United States | Fall 2026,Spring 2027,Summer 2027 | 🟢 Open | https://jobs.apple.com/en-us/details/200663969-3810/product-design-phd-internships?team=STDNT |
 
 <!-- PRODUCT_ADJACENT_OTHER_END -->
 
@@ -127,6 +127,7 @@ See Full List HERE: [opportunities/new-grad.md](opportunities/new-grad.md)
 |---|---|---|---|---|---|
 | Micron | New College Grad - Business Analyst, Digital Workplace | Boise, Idaho, United States of America | Not explicitly stated, assume Summer 2027 | 🟢 Open | https://careers.micron.com/careers/job/43648581?domain=micron.com&hl=en |
 | Micron | New College Grad - Product Manager, HBM | Boise, Idaho, United States of America | Not explicitly stated, assume Summer 2027 | 🟢 Open | https://careers.micron.com/careers/job/41945073 |
+| Micron | New College Grad - Supply Chain Planner | Boise, Idaho, United States of America | Not explicitly stated, assume Summer 2027 | 🟢 Open | https://careers.micron.com/careers/job/43071101?domain=micron.com&hl=en |
 | salesforce | Associate Product Manager (starting summer 2027) | California - San Francisco | Summer 2027 | 🟢 Open | https://www.salesforce.com/company/careers/jobs/JR351508/associate-product-manager-starting-summer-2027/ |
 | databricks | Associate Product Manager, New Grad | Bellevue, WA; Mountain View, CA; San Francisco, CA | 2027 Start | 🟢 Open | https://www.databricks.com/company/careers/university-recruiting/associate-product-manager-new-grad-2027-start-7586263002 |
 

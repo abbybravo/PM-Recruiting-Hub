@@ -8,7 +8,7 @@
 | IBM | Product Manager Intern 2027 | LOWELL; DURHAM; San Jose; Austin, Texas; North Carolina; Massachusetts; California; United States | Summer 2027 | 🟢 Open | https://careers.ibm.com/en_US/careers/JobDetail?jobId=128509&source=WEB_Search_NA |
 | Micron | New College Grad - Business Analyst, Digital Workplace | Boise, Idaho, United States of America | Not explicitly stated, assume Summer 2027 | 🟢 Open | https://careers.micron.com/careers/job/43648581?domain=micron.com&hl=en |
 | Micron | New College Grad - Product Manager, HBM | Boise, Idaho, United States of America | Not explicitly stated, assume Summer 2027 | 🟢 Open | https://careers.micron.com/careers/job/41945073 |
-| Microsoft | Supply Chain Program Management Intern | United States, Washington, Redmond | Summer 2027 | 🟢 Open | https://apply.careers.microsoft.com/careers/job/1970393556958168?domain=microsoft.com&hl=en |
+| Micron | New College Grad - Supply Chain Planner | Boise, Idaho, United States of America | Not explicitly stated, assume Summer 2027 | 🟢 Open | https://careers.micron.com/careers/job/43071101?domain=micron.com&hl=en |
 
 <!-- SUMMER_END -->
 
