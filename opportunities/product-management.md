@@ -2,6 +2,7 @@
 
 | Company | Role | Location | Start Term | Application Status | Link |
 |---|---|---|---|---|---|
+| IBM | Product Manager Spring Co-op 2027 | LOWELL; DURHAM; San Jose; Austin, Texas; North Carolina; Massachusetts; California; United States | Spring 2027 | 🟢 Open | https://careers.ibm.com/en_US/careers/JobDetail?jobId=128508&source=WEB_Intern_NA |
 | IBM | Product Manager Intern 2027 | LOWELL; DURHAM; San Jose; Austin, Texas; North Carolina; Massachusetts; California; United States | Summer 2027 | 🟢 Open | https://careers.ibm.com/en_US/careers/JobDetail?jobId=128509&source=WEB_Search_NA |
 | Microsoft | Product Manager: Internship Opportunities | United States, Washington, Redmond | Summer 2027 | 🟢 Open | https://apply.careers.microsoft.com/careers/job/1970393556953113?domain=microsoft.com&hl=en |
 | appian | Product Manager (2027 Graduates) | McLean, Virginia | Summer 2027 | 🟢 Open | https://careers.appian.com/jobs/8069612-product-manager--2027-graduates- |
