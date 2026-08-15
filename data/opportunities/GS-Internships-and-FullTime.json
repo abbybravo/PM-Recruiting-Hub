@@ -2,7 +2,7 @@
   "company": "Goldman Sachs",
   "role": "Varies",
   "roleType": "Product-Adjacent/Other",
-  "employmentType": "Internship", "New Grad",
+  "employmentType": ["Internship", "New Grad"],
   "locations": [
     "Varies"
   ],
