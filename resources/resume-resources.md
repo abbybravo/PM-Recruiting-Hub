@@ -57,10 +57,6 @@ PM candidates from technical backgrounds (like engineering majors) have a natura
 
 This shows: technical capability, user-centered prioritization, and a measurable outcome — the three things a PM resume needs to demonstrate simultaneously.
 
-## Free Self-Check Tools
-
-- [ATS Health Check](https://cvexpert.com/tools/ats-health-check) and [CV–Job Keyword Match](https://cvexpert.com/tools/cv-job-match) from CVExpert provide transparent checks for CV foundations and job-description language. Both are free, require no sign-up, and process pasted text in the browser without uploading or saving it.
-
 ---
 
 ## Notion Page with Resume Templates: https://app.notion.com/p/pmrecruitinghub/Resume-Templates-3a09840850e780a6a5bbea8197cbe843?source=copy_link
