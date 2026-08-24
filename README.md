@@ -35,11 +35,11 @@
 
 | Company | Role | Location | Start Term | Application Status | Link |
 |---|---|---|---|---|---|
+| AMD | 2027 Undergrad Product Development Engineering Intern/Co-op | Santa Clara, California; San Jose, California | Spring 2027,Summer 2027 | 🟢 Open | closest to PM so far: https://careers.amd.com/careers-home/jobs/91227?lang=en-us |
 | Capital One | Business Analyst Intern - Summer 2027 | McLean, Virginia; Richmond, Virginia; Plano, Texas; New York, New York; Chicago, Illinois | Summer 2027 | ‼️Closing Soon‼️ They only take applications minimum 5 days! | https://www.capitalonecareers.com/job/mclean/business-analyst-intern-summer-2027/31238/99109660512 |
 | Goldman Sachs | Varies | Varies | Summer 2027 | 🟢 Open | CAME OUT TODAY August 15th: https://www.goldmansachs.com/careers/students/programs-and-internships?0=gscom%3Aprogram-type%2Finternship&1=gscom%3Aprogram-region-careers%2Famericas |
 | IBM | Product Manager Spring Co-op 2027 | LOWELL; DURHAM; San Jose; Austin, Texas; North Carolina; Massachusetts; California; United States | Spring 2027 | 🟢 Open | https://careers.ibm.com/en_US/careers/JobDetail?jobId=128508&source=WEB_Intern_NA |
 | IBM | Product Manager Intern 2027 | LOWELL; DURHAM; San Jose; Austin, Texas; North Carolina; Massachusetts; California; United States | Summer 2027 | 🟢 Open | https://careers.ibm.com/en_US/careers/JobDetail?jobId=128509&source=WEB_Search_NA |
-| Micron | New College Grad - Business Analyst, Digital Workplace | Boise, Idaho, United States of America | Not explicitly stated, assume Summer 2027 | 🟢 Open | https://careers.micron.com/careers/job/43648581?domain=micron.com&hl=en |
 
 <!-- RECENT_OPPORTUNITIES_END -->
 
@@ -48,11 +48,7 @@
 ## ⏰ Closing Soon
 
 <!-- CLOSING_SOON_START -->
-
-| Company | Role | Location | Start Term | Deadline | Application Status | Link |
-|---|---|---|---|---|---|---|
-| Capital One | Business Analyst Intern - Summer 2027 | McLean, Virginia; Richmond, Virginia; Plano, Texas; New York, New York; Chicago, Illinois | Summer 2027 | Aug 17, 2026 | ‼️Closing Soon‼️ They only take applications minimum 5 days! | https://www.capitalonecareers.com/job/mclean/business-analyst-intern-summer-2027/31238/99109660512 |
-
+_No opportunities currently closing soon._
 <!-- CLOSING_SOON_END -->
 
 ---
@@ -111,11 +107,11 @@ See Full List HERE: [opportunities/product-adjacent-other.md](opportunities/prod
 
 | Company | Role | Location | Start Term | Application Status | Link |
 |---|---|---|---|---|---|
+| AMD | 2027 Undergrad Product Development Engineering Intern/Co-op | Santa Clara, California; San Jose, California | Spring 2027,Summer 2027 | 🟢 Open | closest to PM so far: https://careers.amd.com/careers-home/jobs/91227?lang=en-us |
 | Capital One | Business Analyst Intern - Summer 2027 | McLean, Virginia; Richmond, Virginia; Plano, Texas; New York, New York; Chicago, Illinois | Summer 2027 | ‼️Closing Soon‼️ They only take applications minimum 5 days! | https://www.capitalonecareers.com/job/mclean/business-analyst-intern-summer-2027/31238/99109660512 |
 | Goldman Sachs | Varies | Varies | Summer 2027 | 🟢 Open | CAME OUT TODAY August 15th: https://www.goldmansachs.com/careers/students/programs-and-internships?0=gscom%3Aprogram-type%2Finternship&1=gscom%3Aprogram-region-careers%2Famericas |
 | Micron | New College Grad - Business Analyst, Digital Workplace | Boise, Idaho, United States of America | Not explicitly stated, assume Summer 2027 | 🟢 Open | https://careers.micron.com/careers/job/43648581?domain=micron.com&hl=en |
 | Micron | New College Grad - Supply Chain Planner | Boise, Idaho, United States of America | Not explicitly stated, assume Summer 2027 | 🟢 Open | https://careers.micron.com/careers/job/43071101?domain=micron.com&hl=en |
-| Microsoft | Supply Chain Program Management Intern | United States, Washington, Redmond | Summer 2027 | 🟢 Open | https://apply.careers.microsoft.com/careers/job/1970393556958168?domain=microsoft.com&hl=en |
 
 <!-- PRODUCT_ADJACENT_OTHER_END -->
 
@@ -157,6 +153,7 @@ See Full List HERE: [opportunities/closed.md](opportunities/closed.md)
 
 | Company | Role | Location | Start Term | Application Status | Link |
 |---|---|---|---|---|---|
+| Capital One | Business Analyst Intern - Summer 2027 | McLean, Virginia; Richmond, Virginia; Plano, Texas; New York, New York; Chicago, Illinois | Summer 2027 | ‼️Closing Soon‼️ They only take applications minimum 5 days! | https://www.capitalonecareers.com/job/mclean/business-analyst-intern-summer-2027/31238/99109660512 |
 | salesforce | Summer 2027 Intern - Associate Product Manager (APM) | San Francisco, California | Summer 2027 | 🔴 Closed | https://www.salesforce.com/company/careers/jobs/JR348039/summer-2027-intern-associate-product-manager-apm/ |
 
 <!-- CLOSED_END --> ---

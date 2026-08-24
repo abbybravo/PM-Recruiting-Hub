@@ -3,6 +3,7 @@
 | Company | Role | Location | Start Term | Application Status | Link |
 |---|---|---|---|---|---|
 | AMD | INTERNSHIPS AND CO-OPS RELEASE AUGUST | Varies | Spring 2027; Summer 2027 | 🟡 Opening Soon | COMING SOON IN AUGUST |
+| AMD | 2027 Undergrad Product Development Engineering Intern/Co-op | Santa Clara, California; San Jose, California | Spring 2027; Summer 2027 | 🟢 Open | closest to PM so far: https://careers.amd.com/careers-home/jobs/91227?lang=en-us |
 | Adobe | The Intern Legacy - Virtual Recruiting Event |  | August 11, 2026 | 🟢 Open | https://careers.adobe.com/us/en/event/6a0ccc369c6fc67e77b1defb/The-Intern-Legacy |
 | Apple | Product Design Masters Engineering Internships | United States | Fall 2026; Spring 2027; Summer 2027 | 🟢 Open | https://jobs.apple.com/en-us/details/200663996-3810/product-design-masters-engineering-internships?team=STDNT |
 | Apple | Product Design PhD Internships | United States | Fall 2026; Spring 2027; Summer 2027 | 🟢 Open | https://jobs.apple.com/en-us/details/200663969-3810/product-design-phd-internships?team=STDNT |
