@@ -35,11 +35,11 @@
 
 | Company | Role | Location | Start Term | Application Status | Link |
 |---|---|---|---|---|---|
+| Goldman Sachs | 2027 | Americas | New York City Area| AWM Product Management | Summer Analyst | New York, NY, United States; Dallas, TX, United States | Summer 2027 | 🟢 Open | CAME OUT TODAY August 25th: https://higher.gs.com/roles/182389 |
 | AMD | INTERNSHIPS AND CO-OPS RELEASED AUGUST 21ST | Varies | Spring 2027,Summer 2027 | 🟢 Open | https://careers.amd.com/careers-home/jobs |
 | AMD | 2027 Undergrad Product Development Engineering Intern/Co-op | Santa Clara, California; San Jose, California | Spring 2027,Summer 2027 | 🟢 Open | closest to PM so far: https://careers.amd.com/careers-home/jobs/91227?lang=en-us |
 | United Airlines | All Internships/Co-Ops | Varies | Spring 2027,Summer 2027 | 🟡 Opening Soon | COMING SOON: set job alerts now! https://careers.united.com/us/en/c/student-and-early-career-jobs |
 | Capital One | Business Analyst Intern - Summer 2027 | McLean, Virginia; Richmond, Virginia; Plano, Texas; New York, New York; Chicago, Illinois | Summer 2027 | ‼️Closing Soon‼️ They only take applications minimum 5 days! | https://www.capitalonecareers.com/job/mclean/business-analyst-intern-summer-2027/31238/99109660512 |
-| Goldman Sachs | Varies | Varies | Summer 2027 | 🟢 Open | CAME OUT TODAY August 15th: https://www.goldmansachs.com/careers/students/programs-and-internships?0=gscom%3Aprogram-type%2Finternship&1=gscom%3Aprogram-region-careers%2Famericas |
 
 <!-- RECENT_OPPORTUNITIES_END -->
 
@@ -61,11 +61,11 @@ See Full List HERE: [opportunities/product-management.md](opportunities/product-
 
 | Company | Role | Location | Start Term | Application Status | Link |
 |---|---|---|---|---|---|
+| Goldman Sachs | 2027 | Americas | New York City Area| AWM Product Management | Summer Analyst | New York, NY, United States; Dallas, TX, United States | Summer 2027 | 🟢 Open | CAME OUT TODAY August 25th: https://higher.gs.com/roles/182389 |
 | IBM | Product Manager Spring Co-op 2027 | LOWELL; DURHAM; San Jose; Austin, Texas; North Carolina; Massachusetts; California; United States | Spring 2027 | 🟢 Open | https://careers.ibm.com/en_US/careers/JobDetail?jobId=128508&source=WEB_Intern_NA |
 | IBM | Product Manager Intern 2027 | LOWELL; DURHAM; San Jose; Austin, Texas; North Carolina; Massachusetts; California; United States | Summer 2027 | 🟢 Open | https://careers.ibm.com/en_US/careers/JobDetail?jobId=128509&source=WEB_Search_NA |
 | Microsoft | Product Manager: Internship Opportunities | United States, Washington, Redmond | Summer 2027 | 🟢 Open | https://apply.careers.microsoft.com/careers/job/1970393556953113?domain=microsoft.com&hl=en |
 | appian | Product Manager (2027 Graduates) | McLean, Virginia | Summer 2027 | 🟢 Open | https://careers.appian.com/jobs/8069612-product-manager--2027-graduates- |
-| salesforce | Summer 2027 Intern - Associate Product Manager (APM) | San Francisco, California | Summer 2027 | 🔴 Closed | https://www.salesforce.com/company/careers/jobs/JR348039/summer-2027-intern-associate-product-manager-apm/ |
 
 <!-- PRODUCT_MANAGEMENT_END -->
 
