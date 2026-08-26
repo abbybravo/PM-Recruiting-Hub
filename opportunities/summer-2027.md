@@ -4,7 +4,7 @@
 
 | Company | Role | Location | Start Term | Application Status | Link |
 |---|---|---|---|---|---|
-| Goldman Sachs | 2027  Americas  New York City Area AWM Product Management  Summer Analyst | New York, NY, United States; Dallas, TX, United States | Summer 2027 | 🟢 Open | CAME OUT TODAY August 25th: https://higher.gs.com/roles/182389 |
+| Goldman Sachs | 2027  Americas  New York City Area AWM Product Management  Summer Analyst | New York, NY, United States; Dallas, TX, United States | Summer 2027 | 🟢 Open | CAME OUT August 25th: https://higher.gs.com/roles/182389 |
 | AMD | INTERNSHIPS AND CO-OPS RELEASED AUGUST 21ST | Varies | Spring 2027,Summer 2027 | 🟢 Open | https://careers.amd.com/careers-home/jobs |
 | AMD | 2027 Undergrad Product Development Engineering Intern/Co-op | Santa Clara, California; San Jose, California | Spring 2027,Summer 2027 | 🟢 Open | closest to PM so far: https://careers.amd.com/careers-home/jobs/91227?lang=en-us |
 | United Airlines | All Internships/Co-Ops | Varies | Spring 2027,Summer 2027 | 🟡 Opening Soon | COMING SOON: set job alerts now! https://careers.united.com/us/en/c/student-and-early-career-jobs |

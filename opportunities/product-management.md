@@ -2,7 +2,7 @@
 
 | Company | Role | Location | Start Term | Application Status | Link |
 |---|---|---|---|---|---|
-| Goldman Sachs | 2027  Americas  New York City Area AWM Product Management  Summer Analyst | New York, NY, United States; Dallas, TX, United States | Summer 2027 | 🟢 Open | CAME OUT TODAY August 25th: https://higher.gs.com/roles/182389 |
+| Goldman Sachs | 2027  Americas  New York City Area AWM Product Management  Summer Analyst | New York, NY, United States; Dallas, TX, United States | Summer 2027 | 🟢 Open | CAME OUT August 25th: https://higher.gs.com/roles/182389 |
 | IBM | Product Manager Spring Co-op 2027 | LOWELL; DURHAM; San Jose; Austin, Texas; North Carolina; Massachusetts; California; United States | Spring 2027 | 🟢 Open | https://careers.ibm.com/en_US/careers/JobDetail?jobId=128508&source=WEB_Intern_NA |
 | IBM | Product Manager Intern 2027 | LOWELL; DURHAM; San Jose; Austin, Texas; North Carolina; Massachusetts; California; United States | Summer 2027 | 🟢 Open | https://careers.ibm.com/en_US/careers/JobDetail?jobId=128509&source=WEB_Search_NA |
 | Microsoft | Product Manager: Internship Opportunities | United States, Washington, Redmond | Summer 2027 | 🟢 Open | https://apply.careers.microsoft.com/careers/job/1970393556953113?domain=microsoft.com&hl=en |
