@@ -2,7 +2,7 @@
 
 | Company | Role | Location | Start Term | Application Status | Link |
 |---|---|---|---|---|---|
-| Google | Technical Program Manager Intern, BS/MS | Multiple U.S. locations | Summer 2027 | 🟢 Open | https://lnkd.in/gvEVkKKY |
+| AMD | 2027 Undergrad Program Management Intern/Co-op | Austin, Texas | Spring/Summer 2027; Summer 2027; Summer/Fall 2027 | 🟢 Open | https://careers.amd.com/careers-home/jobs/92880 |
 | Apple | Engineering Program Management Undergrad Internships | Varies | Fall 2026; Spring 2027; Summer 2027 | 🟢 Open | https://jobs.apple.com/en-us/details/200664330-3810/engineering-program-management-undergrad-internships |
 | Apple | Engineering Program Management Masters Internships | Varies | Fall 2026; Spring 2027; Summer 2027 | 🟢 Open | https://jobs.apple.com/en-us/details/200664336-3810/engineering-program-management-masters-internships |
 | Microsoft | Technical Program Manager: Internship Opportunities | United States, Washington, Redmond | Summer 2027 | 🟢 Open | https://apply.careers.microsoft.com/careers/job/1970393556953114?domain=microsoft.com&hl=en |
