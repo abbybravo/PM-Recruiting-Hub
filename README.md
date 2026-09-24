@@ -35,11 +35,11 @@
 
 | Company | Role | Location | Start Term | Application Status | Link |
 |---|---|---|---|---|---|
-| Goldman Sachs | 2027  Americas  New York City Area AWM Product Management  Summer Analyst | New York, NY, United States; Dallas, TX, United States | Summer 2027 | 🟢 Open | CAME OUT August 25th: https://higher.gs.com/roles/182389 |
-| AMD | INTERNSHIPS AND CO-OPS RELEASED AUGUST 21ST | Varies | Spring 2027,Summer 2027 | 🟢 Open | https://careers.amd.com/careers-home/jobs |
-| AMD | 2027 Undergrad Product Development Engineering Intern/Co-op | Santa Clara, California; San Jose, California | Spring 2027,Summer 2027 | 🟢 Open | closest to PM so far: https://careers.amd.com/careers-home/jobs/91227?lang=en-us |
-| United Airlines | All Internships/Co-Ops | Varies | Spring 2027,Summer 2027 | 🟡 Opening Soon | COMING SOON: set job alerts now! https://careers.united.com/us/en/c/student-and-early-career-jobs |
-| Capital One | Business Analyst Intern - Summer 2027 | McLean, Virginia; Richmond, Virginia; Plano, Texas; New York, New York; Chicago, Illinois | Summer 2027 | ‼️Closing Soon‼️ They only take applications minimum 5 days! | https://www.capitalonecareers.com/job/mclean/business-analyst-intern-summer-2027/31238/99109660512 |
+| Google | Technical Program Manager Intern, BS/MS | Multiple U.S. locations | Summer 2027 | 🟢 Open | https://lnkd.in/gvEVkKKY |
+| Duolingo | Associate Product Manager, Intern | Pittsburgh, PA | Summer 2027 | 🟢 Open | https://lnkd.in/gPjRkMgY |
+| Stripe | Product Manager: New Grad Accelerator | New York, NY; Seattle, WA; South San Francisco, CA | 2027 Start | 🟢 Open | https://lnkd.in/g332NCxs |
+| The Walt Disney Company | Associate Product Manager Program | Glendale, CA; New York, NY | Summer 2027 | 🟢 Open | https://lnkd.in/gitccHm8 |
+| Lowe's | Digital Product Management - Undergrad Internship | Charlotte, NC | Summer 2027 | 🟢 Open | https://lnkd.in/gWvEeb_j |
 
 <!-- RECENT_OPPORTUNITIES_END -->
 
@@ -61,11 +61,11 @@ See Full List HERE: [opportunities/product-management.md](opportunities/product-
 
 | Company | Role | Location | Start Term | Application Status | Link |
 |---|---|---|---|---|---|
-| Goldman Sachs | 2027  Americas  New York City Area AWM Product Management  Summer Analyst | New York, NY, United States; Dallas, TX, United States | Summer 2027 | 🟢 Open | CAME OUT August 25th: https://higher.gs.com/roles/182389 |
-| IBM | Product Manager Spring Co-op 2027 | LOWELL; DURHAM; San Jose; Austin, Texas; North Carolina; Massachusetts; California; United States | Spring 2027 | 🟢 Open | https://careers.ibm.com/en_US/careers/JobDetail?jobId=128508&source=WEB_Intern_NA |
-| IBM | Product Manager Intern 2027 | LOWELL; DURHAM; San Jose; Austin, Texas; North Carolina; Massachusetts; California; United States | Summer 2027 | 🟢 Open | https://careers.ibm.com/en_US/careers/JobDetail?jobId=128509&source=WEB_Search_NA |
-| Microsoft | Product Manager: Internship Opportunities | United States, Washington, Redmond | Summer 2027 | 🟢 Open | https://apply.careers.microsoft.com/careers/job/1970393556953113?domain=microsoft.com&hl=en |
-| appian | Product Manager (2027 Graduates) | McLean, Virginia | Summer 2027 | 🟢 Open | https://careers.appian.com/jobs/8069612-product-manager--2027-graduates- |
+| Duolingo | Associate Product Manager, Intern | Pittsburgh, PA | Summer 2027 | 🟢 Open | https://lnkd.in/gPjRkMgY |
+| Stripe | Product Manager: New Grad Accelerator | New York, NY; Seattle, WA; South San Francisco, CA | 2027 Start | 🟢 Open | https://lnkd.in/g332NCxs |
+| The Walt Disney Company | Associate Product Manager Program | Glendale, CA; New York, NY | Summer 2027 | 🟢 Open | https://lnkd.in/gitccHm8 |
+| Lowe's | Digital Product Management - Undergrad Internship | Charlotte, NC | Summer 2027 | 🟢 Open | https://lnkd.in/gWvEeb_j |
+| Lenovo / Motorola Mobility | Mobile Software Product Manager - Global Future Leaders Program (2027) | Chicago, IL | 2027 Start | 🟢 Open | https://lnkd.in/gT5KFFmw |
 
 <!-- PRODUCT_MANAGEMENT_END -->
 
@@ -79,9 +79,8 @@ See Full List HERE: [opportunities/program-management.md](opportunities/program-
 
 | Company | Role | Location | Start Term | Application Status | Link |
 |---|---|---|---|---|---|
+| Google | Technical Program Manager Intern, BS/MS | Multiple U.S. locations | Summer 2027 | 🟢 Open | https://lnkd.in/gvEVkKKY |
 | Microsoft | Technical Program Manager: Internship Opportunities | United States, Washington, Redmond | Summer 2027 | 🟢 Open | https://apply.careers.microsoft.com/careers/job/1970393556953114?domain=microsoft.com&hl=en |
-| Tesla | Internship, Program Manager, North America Service Program & Project Management (Fall 2026) - Sales & Customer Support | Austin, TX | Fall 2026 | 🟢 Open | https://www.tesla.com/en_AE/careers/search/job/internship-program-manager-north-america-service-program-project-management-fall-2026-271874 |
-| Tesla | Internship, Program Manager, North America Service Program & Project Management (Fall 2026) - Vehicle Service | Austin, TX | Fall 2026 | 🟢 Open | https://www.tesla.com/en_AE/careers/search/job/internship-program-manager-north-america-service-program-project-management-fall-2026-271875 |
 | Apple | Engineering Program Management Undergrad Internships | Varies | Fall 2026,Spring 2027,Summer 2027 | 🟢 Open | https://jobs.apple.com/en-us/details/200664330-3810/engineering-program-management-undergrad-internships |
 | Apple | Engineering Program Management Masters Internships | Varies | Fall 2026,Spring 2027,Summer 2027 | 🟢 Open | https://jobs.apple.com/en-us/details/200664336-3810/engineering-program-management-masters-internships |
 
@@ -125,11 +124,11 @@ See Full List HERE: [opportunities/new-grad.md](opportunities/new-grad.md)
 
 | Company | Role | Location | Start Term | Application Status | Link |
 |---|---|---|---|---|---|
-| Micron | New College Grad - Business Analyst, Digital Workplace | Boise, Idaho, United States of America | Not explicitly stated, assume Summer 2027 | 🟢 Open | https://careers.micron.com/careers/job/43648581?domain=micron.com&hl=en |
-| Micron | New College Grad - Product Manager, HBM | Boise, Idaho, United States of America | Not explicitly stated, assume Summer 2027 | 🟢 Open | https://careers.micron.com/careers/job/41945073 |
-| Micron | New College Grad - Supply Chain Planner | Boise, Idaho, United States of America | Not explicitly stated, assume Summer 2027 | 🟢 Open | https://careers.micron.com/careers/job/43071101?domain=micron.com&hl=en |
+| Stripe | Product Manager: New Grad Accelerator | New York, NY; Seattle, WA; South San Francisco, CA | 2027 Start | 🟢 Open | https://lnkd.in/g332NCxs |
+| The Walt Disney Company | Associate Product Manager Program | Glendale, CA; New York, NY | Summer 2027 | 🟢 Open | https://lnkd.in/gitccHm8 |
+| Lenovo / Motorola Mobility | Mobile Software Product Manager - Global Future Leaders Program (2027) | Chicago, IL | 2027 Start | 🟢 Open | https://lnkd.in/gT5KFFmw |
+| Robinhood | Associate Product Manager (New Grad) | Menlo Park, CA; New York, NY | July 2027 | 🟢 Open | https://lnkd.in/g8hSMmkW |
 | salesforce | Associate Product Manager (starting summer 2027) | California - San Francisco | Summer 2027 | 🟢 Open | https://www.salesforce.com/company/careers/jobs/JR351508/associate-product-manager-starting-summer-2027/ |
-| databricks | Associate Product Manager, New Grad | Bellevue, WA; Mountain View, CA; San Francisco, CA | 2027 Start | 🟢 Open | https://www.databricks.com/company/careers/university-recruiting/associate-product-manager-new-grad-2027-start-7586263002 |
 
 <!-- NEW_GRAD_END -->
 
