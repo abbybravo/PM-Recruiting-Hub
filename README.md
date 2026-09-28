@@ -35,11 +35,11 @@
 
 | Company | Role | Location | Start Term | Application Status | Link |
 |---|---|---|---|---|---|
+| WHOOP | Product Designer Co-Op, Growth | Boston, Massachusetts | Spring 2027 | 🟢 Open | https://jobs.ashbyhq.com/whoop/c1b719e5-6023-407a-a736-233ac032414b |
+| WHOOP | Product Operations Co-op | Boston, Massachusetts | Spring 2027 | 🟢 Open | https://jobs.ashbyhq.com/whoop/41e12685-fa28-4902-aba6-1d3e7e470a7b |
+| WHOOP | Program Management Co-Op | Boston, Massachusetts | Spring 2027 | 🟢 Open | https://jobs.ashbyhq.com/whoop/09c888d5-3a2a-4d48-9e44-f28709611a06 |
 | AMD | 2027 Undergrad Program Management Intern/Co-op | Austin, Texas | Spring/Summer 2027,Summer 2027,Summer/Fall 2027 | 🟢 Open | https://careers.amd.com/careers-home/jobs/92880 |
 | Goldman Sachs | 2027  Americas  New York City Area AWM Product Management  Summer Analyst | New York, NY, United States; Dallas, TX, United States | Summer 2027 | 🟢 Open | CAME OUT August 25th: https://higher.gs.com/roles/182389 |
-| AMD | INTERNSHIPS AND CO-OPS RELEASED AUGUST 21ST | Varies | Spring 2027,Summer 2027 | 🟢 Open | https://careers.amd.com/careers-home/jobs |
-| AMD | 2027 Undergrad Product Development Engineering Intern/Co-op | Santa Clara, California; San Jose, California | Spring 2027,Summer 2027 | 🟢 Open | closest to PM so far: https://careers.amd.com/careers-home/jobs/91227?lang=en-us |
-| United Airlines | All Internships/Co-Ops | Varies | Spring 2027,Summer 2027 | 🟡 Opening Soon | COMING SOON: set job alerts now! https://careers.united.com/us/en/c/student-and-early-career-jobs |
 
 <!-- RECENT_OPPORTUNITIES_END -->
 
@@ -51,6 +51,7 @@
 
 | Company | Role | Location | Start Term | Deadline | Application Status | Link |
 |---|---|---|---|---|---|---|
+| WHOOP | Program Management Co-Op | Boston, Massachusetts | Spring 2027 | Sep 30, 2026 | 🟢 Open | https://jobs.ashbyhq.com/whoop/09c888d5-3a2a-4d48-9e44-f28709611a06 |
 | Bank of America | Strategy and Management Summer Analyst Program - 2027 | Boston, Massachusetts; Charlotte, North Carolina; New York, New York | Summer 2027 | Oct 1, 2026 | 🟢 Open | https://careers.bankofamerica.com/en-us/students/job-detail/14443/strategy-and-management-summer-analyst-program-2027-multiple-locations |
 
 <!-- CLOSING_SOON_END -->
@@ -83,11 +84,11 @@ See Full List HERE: [opportunities/program-management.md](opportunities/program-
 
 | Company | Role | Location | Start Term | Application Status | Link |
 |---|---|---|---|---|---|
+| WHOOP | Program Management Co-Op | Boston, Massachusetts | Spring 2027 | 🟢 Open | https://jobs.ashbyhq.com/whoop/09c888d5-3a2a-4d48-9e44-f28709611a06 |
 | AMD | 2027 Undergrad Program Management Intern/Co-op | Austin, Texas | Spring/Summer 2027,Summer 2027,Summer/Fall 2027 | 🟢 Open | https://careers.amd.com/careers-home/jobs/92880 |
 | Microsoft | Technical Program Manager: Internship Opportunities | United States, Washington, Redmond | Summer 2027 | 🟢 Open | https://apply.careers.microsoft.com/careers/job/1970393556953114?domain=microsoft.com&hl=en |
 | Tesla | Internship, Program Manager, North America Service Program & Project Management (Fall 2026) - Sales & Customer Support | Austin, TX | Fall 2026 | 🟢 Open | https://www.tesla.com/en_AE/careers/search/job/internship-program-manager-north-america-service-program-project-management-fall-2026-271874 |
 | Tesla | Internship, Program Manager, North America Service Program & Project Management (Fall 2026) - Vehicle Service | Austin, TX | Fall 2026 | 🟢 Open | https://www.tesla.com/en_AE/careers/search/job/internship-program-manager-north-america-service-program-project-management-fall-2026-271875 |
-| Apple | Engineering Program Management Undergrad Internships | Varies | Fall 2026,Spring 2027,Summer 2027 | 🟢 Open | https://jobs.apple.com/en-us/details/200664330-3810/engineering-program-management-undergrad-internships |
 
 <!-- PROGRAM_MANAGEMENT_END -->
 
@@ -111,11 +112,11 @@ See Full List HERE: [opportunities/product-adjacent-other.md](opportunities/prod
 
 | Company | Role | Location | Start Term | Application Status | Link |
 |---|---|---|---|---|---|
+| WHOOP | Product Designer Co-Op, Growth | Boston, Massachusetts | Spring 2027 | 🟢 Open | https://jobs.ashbyhq.com/whoop/c1b719e5-6023-407a-a736-233ac032414b |
 | AMD | INTERNSHIPS AND CO-OPS RELEASED AUGUST 21ST | Varies | Spring 2027,Summer 2027 | 🟢 Open | https://careers.amd.com/careers-home/jobs |
 | AMD | 2027 Undergrad Product Development Engineering Intern/Co-op | Santa Clara, California; San Jose, California | Spring 2027,Summer 2027 | 🟢 Open | closest to PM so far: https://careers.amd.com/careers-home/jobs/91227?lang=en-us |
 | Capital One | Business Analyst Intern - Summer 2027 | McLean, Virginia; Richmond, Virginia; Plano, Texas; New York, New York; Chicago, Illinois | Summer 2027 | ‼️Closing Soon‼️ They only take applications minimum 5 days! | https://www.capitalonecareers.com/job/mclean/business-analyst-intern-summer-2027/31238/99109660512 |
 | Goldman Sachs | Varies | Varies | Summer 2027 | 🟢 Open | CAME OUT TODAY August 15th: https://www.goldmansachs.com/careers/students/programs-and-internships?0=gscom%3Aprogram-type%2Finternship&1=gscom%3Aprogram-region-careers%2Famericas |
-| Micron | New College Grad - Business Analyst, Digital Workplace | Boise, Idaho, United States of America | Not explicitly stated, assume Summer 2027 | 🟢 Open | https://careers.micron.com/careers/job/43648581?domain=micron.com&hl=en |
 
 <!-- PRODUCT_ADJACENT_OTHER_END -->
 
