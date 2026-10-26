@@ -59,6 +59,12 @@ This shows: technical capability, user-centered prioritization, and a measurable
 
 ---
 
+## Optional Resume and Job-Search Tools
+
+- [JobEmerge](https://www.jobemerge.work) — AI career copilot with a free tier for resume editing, resume translation in 19 languages, job-fit analysis, text-based mock interviews, and application tracking.
+
+---
+
 ## Notion Page with Resume Templates: https://app.notion.com/p/pmrecruitinghub/Resume-Templates-3a09840850e780a6a5bbea8197cbe843?source=copy_link
 
 ---
