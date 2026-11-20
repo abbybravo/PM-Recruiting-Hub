@@ -1,0 +1,48 @@
+name: Daily Opportunity Scanner
+
+on:
+  schedule:
+    # 8:00 AM Houston time during CST; 9:00 AM during daylight time.
+    - cron: "0 14 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pull-requests: write
+
+concurrency:
+  group: daily-opportunity-scanner
+  cancel-in-progress: false
+
+jobs:
+  scan:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Discover and classify opportunities
+        id: scan
+        env:
+          ANTHROPIC_API_KEY: \${{ secrets.ANTHROPIC_API_KEY }}
+          CLAUDE_MODEL: claude-haiku-5-5
+        run: node scripts/scan-opportunities.js
+
+      - name: Create review pull request
+        if: steps.scan.outputs.has_changes == 'true'
+        env:
+          GH_TOKEN: \${{ secrets.GITHUB_TOKEN }}
+        run: |
+          BRANCH="bot/daily-opportunity-scan-$(date -u +%Y%m%d)"
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git checkout -b "$BRANCH"
+          git add data/opportunities/*.json
+          git commit -m "Add opportunities from daily scan"
+          git push --set-upstream origin "$BRANCH"
+          gh pr create --draft --title "Daily opportunity scan — $(date -u +%Y-%m-%d)" --body-file scanner-pr-body.md --base main --head "$BRANCH"
