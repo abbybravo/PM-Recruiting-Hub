@@ -7,6 +7,8 @@
 | Apple | Engineering Program Management Masters Internships | Varies | Fall 2026; Spring 2027; Summer 2027 | 🟢 Open | https://jobs.apple.com/en-us/details/200664336-3810/engineering-program-management-masters-internships |
 | Microsoft | Technical Program Manager: Internship Opportunities | United States, Washington, Redmond | Summer 2027 | 🟢 Open | https://apply.careers.microsoft.com/careers/job/1970393556953114?domain=microsoft.com&hl=en |
 | WHOOP | Program Management Co-Op | Boston, Massachusetts | Spring 2027 | 🟢 Open | https://jobs.ashbyhq.com/whoop/09c888d5-3a2a-4d48-9e44-f28709611a06 |
+| Intuit | Summer 2027: Technical Program Manager (TPM) Intern | Mountain View, CA; Atlanta, GA; San Diego, CA | May 17, 2027; June 14, 2027 | 🟢 Open | https://jobs.intuit.com/job/mountain-view/summer-2027-technical-program-manager-tpm-intern/27595/100620927664 |
+| Meta | Technical Program Manager Intern, Reality Labs — 2027 | Menlo Park, CA | Summer 2027 | 🟢 Open | https://www.metacareers.com/profile/job_details/1649069223327170/ |
 | Tesla | Internship, Program Manager, North America Service Program & Project Management (Fall 2026) - Sales & Customer Support | Austin, TX | Fall 2026 | 🟢 Open | https://www.tesla.com/en_AE/careers/search/job/internship-program-manager-north-america-service-program-project-management-fall-2026-271874 |
 | Tesla | Internship, Program Manager, North America Service Program & Project Management (Fall 2026) - Vehicle Service | Austin, TX | Fall 2026 | 🟢 Open | https://www.tesla.com/en_AE/careers/search/job/internship-program-manager-north-america-service-program-project-management-fall-2026-271875 |
 

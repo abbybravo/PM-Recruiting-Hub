@@ -18,6 +18,7 @@
 | Bank of America | Strategy and Management Summer Analyst Program - 2027 | Boston, Massachusetts; Charlotte, North Carolina; New York, New York | Summer 2027 | 🟢 Open | https://careers.bankofamerica.com/en-us/students/job-detail/14443/strategy-and-management-summer-analyst-program-2027-multiple-locations |
 | JaneStreet | Strategy and Product Internship, May-August | New York | Summer 2027 | 🟢 Open | https://www.janestreet.com/join-jane-street/position/8621552002/ |
 | JPMorganChase | 2027 Chase Leadership Development Program - Summer Analyst Opportunity (New York Metro) | New York, NY, United States | Summer 2027 | 🟢 Open | https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210768204/?keyword=2027+Chase+Leadership+Development+Program+-+Summer+Analyst+Opportunity+%28New+York+Metro%29&location=United+States&locationId=300000000289738&locationLevel=country&mode=location |
+| New York Life | 2027 Business Strategy & Operations Summer Internship | New York, NY; White Plains, NY; Jersey City, NJ | Summer 2027 | 🟢 Open | https://careers.newyorklife.com/careers/job/44683320-2027-business-strategy-operations-summer-internship-new-york-new-york-united-states?domain=newyorklife.com&microsite=newyorklife.com |
 
 ---
 
