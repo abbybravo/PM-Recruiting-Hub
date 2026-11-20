@@ -29,16 +29,16 @@ jobs:
       - name: Discover and classify opportunities
         id: scan
         env:
-          ANTHROPIC_API_KEY: \${{ secrets.ANTHROPIC_API_KEY }}
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
           CLAUDE_MODEL: claude-haiku-5-5
         run: node scripts/scan-opportunities.js
 
       - name: Create review pull request
         if: steps.scan.outputs.has_changes == 'true'
         env:
-          GH_TOKEN: \${{ secrets.GITHUB_TOKEN }}
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          BRANCH="bot/daily-opportunity-scan-$(date -u +%Y%m%d)"
+          BRANCH="bot/daily-opportunity-scan-$(date -u +%Y%m%d)-${GITHUB_RUN_ID}"
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git checkout -b "$BRANCH"
