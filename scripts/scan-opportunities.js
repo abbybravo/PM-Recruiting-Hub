@@ -62,9 +62,9 @@ function normalize(items, existing) {
   const today = new Date().toISOString().slice(0,10);
   const accepted = [];
   for (const x of items) {
-    if (!x || !x.company || !x.role || !/^https:\\/\\//i.test(String(x.link||""))) continue;
+    if (!x || !x.company || !x.role || !/^https:\/\//i.test(String(x.link||""))) continue;
     let u; try { u=new URL(x.link); } catch { continue; }
-    if (!u.hostname.includes(".") || /(^|\\.)(google|indeed|linkedin)\\.com$/i.test(u.hostname)) continue;
+    if (!u.hostname.includes(".") || /(^|\.)(google|indeed|linkedin)\.com$/i.test(u.hostname)) continue;
     const urlKey=normUrl(x.link);
     const titleKey=(String(x.company)+"|"+String(x.role)).toLowerCase().replace(/[^a-z0-9|]+/g,"");
     if (urls.has(urlKey) || titles.has(titleKey)) continue;
@@ -95,7 +95,7 @@ async function main() {
 
   const body=["# Daily opportunity scan","","Scan date: "+new Date().toISOString().slice(0,10),"","Review these proposed records. Nothing is published until this PR is merged.","","| Priority | Company | Role | Category | Why it fits |","|---|---|---|---|---|"];
   for (const x of additions) {
-    body.push("| "+x.priority+" | "+x.company.replace(/\\|/g,"\\\\|")+" | ["+x.role.replace(/\\|/g,"\\\\|")+"]("+x.link+") | "+x.roleType+" / "+x.employmentType+" | "+(x.matchReason||"—").replace(/\\|/g,"\\\\|")+" |");
+    body.push("| "+x.priority+" | "+x.company.replace(/\|/g,"\\|")+" | ["+x.role.replace(/\|/g,"\\|")+"]("+x.link+") | "+x.roleType+" / "+x.employmentType+" | "+(x.matchReason||"—").replace(/\|/g,"\\|")+" |");
     const hash=crypto.createHash("sha1").update(x.link).digest("hex").slice(0,7);
     fs.writeFileSync(path.join(DATA_DIR,slug(x.company+"-"+x.role)+"-"+hash+".json"),JSON.stringify(x,null,2)+"\n");
   }
