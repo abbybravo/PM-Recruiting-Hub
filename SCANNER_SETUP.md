@@ -1,0 +1,40 @@
+# Daily Opportunity Scanner Setup
+
+The scanner runs daily at 14:00 UTC (8:00 AM Houston time during CST; 9:00 AM during daylight time).
+
+## One-time setup
+
+1. In the Claude Console, confirm API access and enable the web search tool for your organization.
+2. In this GitHub repository, open Settings → Secrets and variables → Actions.
+3. Select New repository secret.
+4. Name it exactly ANTHROPIC_API_KEY and paste your Claude API key as the value. Never commit the key or paste it into source files.
+5. Ensure GitHub Actions is enabled for the repository.
+6. In Settings → Actions → General, enable the option that allows GitHub Actions to create and approve pull requests.
+
+## How it works
+
+- Claude Haiku searches for currently open student and early-career opportunities.
+- The scanner prioritizes APM, Product Management, TPM, Program Management, and Product Operations, then includes relevant adjacent business and technical roles.
+- It compares discoveries with existing JSON records, validates required fields, and writes only new records.
+- If new records are found, GitHub Actions opens a draft pull request. It never writes directly to main.
+- After you review and merge a PR, the existing Generate Opportunity Pages workflow updates the README and opportunity pages.
+
+## Cost guardrails
+
+Each daily scan allows at most five Claude web searches. Anthropic currently prices web search at $10 per 1,000 searches, in addition to model token usage. Web search is therefore capped at about $0.05 per daily run; model token costs are additional and usage varies. Review API usage in the Claude Console.
+
+## Manual test
+
+After adding the secret and merging the setup PR, open Actions → Daily Opportunity Scanner → Run workflow to trigger a one-off test. The first run may return no PR if it finds no new postings that pass the quality checks.
+
+## Daily closure monitoring
+
+A second daily workflow checks records currently marked Open and proposes status changes only when there is job-specific evidence.
+
+- `🔴 Closed` is proposed only when an official employer or ATS page clearly confirms the posting is closed, filled, expired, or no longer accepting applications.
+- `🟡 Needs Review` is proposed when an exact-posting signal suggests closure but is not conclusive.
+- Temporary access failures, 403/404 responses by themselves, redirects, and missing search results are not enough to mark a role closed.
+- Proposed changes are submitted in a separate draft pull request. Records remain in the repository as an archive; nothing is changed on `main` until you merge.
+- If a status-review PR is already open, the workflow skips creating another one until that PR is reviewed, preventing a daily pile-up.
+- The checker uses at most five web searches per daily run. Because it is deliberately conservative, some closed postings may remain Open until stronger evidence appears.
+
