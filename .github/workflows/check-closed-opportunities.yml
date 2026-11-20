@@ -1,0 +1,65 @@
+name: Daily Opportunity Closure Check
+
+on:
+  schedule:
+    # Runs alongside the opportunity discovery workflow.
+    - cron: "0 14 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pull-requests: write
+
+concurrency:
+  group: daily-opportunity-closure-check
+  cancel-in-progress: false
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Avoid duplicate review PRs
+        id: guard
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          OPEN_PRS=$(gh pr list --state open --search "in:title Opportunity status review" --json number --jq 'length')
+          if [ "$OPEN_PRS" -gt 0 ]; then
+            echo "skip=true" >> "$GITHUB_OUTPUT"
+            echo "An opportunity status review PR is already open; skipping this run."
+          else
+            echo "skip=false" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Set up Node.js
+        if: steps.guard.outputs.skip != 'true'
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Check existing opportunity statuses
+        if: steps.guard.outputs.skip != 'true'
+        id: check
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          CLAUDE_MODEL: claude-haiku-5-5
+        run: node scripts/check-closed-opportunities.js
+
+      - name: Create status review pull request
+        if: steps.guard.outputs.skip != 'true' && steps.check.outputs.has_changes == 'true'
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          BRANCH="bot/closure-status-review-$(date -u +%Y%m%d)-${GITHUB_RUN_ID}"
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git checkout -b "$BRANCH"
+          git add data/opportunities/*.json
+          git commit -m "Update opportunity application statuses"
+          git push --set-upstream origin "$BRANCH"
+          gh pr create --draft --title "Opportunity status review — $(date -u +%Y-%m-%d)" --body-file closure-pr-body.md --base main --head "$BRANCH"
