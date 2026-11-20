@@ -9,6 +9,7 @@ The scanner runs daily at 14:00 UTC (8:00 AM Houston time during CST; 9:00 AM du
 3. Select New repository secret.
 4. Name it exactly ANTHROPIC_API_KEY and paste your Claude API key as the value. Never commit the key or paste it into source files.
 5. Ensure GitHub Actions is enabled for the repository.
+6. In Settings → Actions → General, enable the option that allows GitHub Actions to create and approve pull requests.
 
 ## How it works
 
