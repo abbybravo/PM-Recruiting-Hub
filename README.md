@@ -11,6 +11,8 @@
 
 **Supported recruiting cycles:** Fall 2026 • Spring 2027 • Summer 2027 • *(future cycles added as they open)*
 
+11/19/2026 Update: HI EVERYONE! Thank you for your support since I began this project! I have been busy with school, j*bs, and on my 3rd week of being sick 😭 BUT I plan to implement more automation and get this going again. Thank you, and see you soon!
+
 ## Connect With Me! 🤝
 <p align="left">
   <a href="https://linkedin.com/in/abigailbravo">
