@@ -26,3 +26,15 @@ Each daily scan allows at most five Claude web searches. Anthropic currently pri
 ## Manual test
 
 After adding the secret and merging the setup PR, open Actions → Daily Opportunity Scanner → Run workflow to trigger a one-off test. The first run may return no PR if it finds no new postings that pass the quality checks.
+
+## Daily closure monitoring
+
+A second daily workflow checks records currently marked Open and proposes status changes only when there is job-specific evidence.
+
+- `🔴 Closed` is proposed only when an official employer or ATS page clearly confirms the posting is closed, filled, expired, or no longer accepting applications.
+- `🟡 Needs Review` is proposed when an exact-posting signal suggests closure but is not conclusive.
+- Temporary access failures, 403/404 responses by themselves, redirects, and missing search results are not enough to mark a role closed.
+- Proposed changes are submitted in a separate draft pull request. Records remain in the repository as an archive; nothing is changed on `main` until you merge.
+- If a status-review PR is already open, the workflow skips creating another one until that PR is reviewed, preventing a daily pile-up.
+- The checker uses at most five web searches per daily run. Because it is deliberately conservative, some closed postings may remain Open until stronger evidence appears.
+
